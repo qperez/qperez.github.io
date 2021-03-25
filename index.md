@@ -99,14 +99,14 @@ J'exerce l'ensemble de mes activités d'enseignement à IMT Mines Alès. Le volu
 
 # Expériences professionnelles
 
-## Ingénieur développement logiciels, groupe Flowbird (Septembre 2018 - Octobre 2018)
+## Ingénieur développement logiciels - groupe Flowbird (Septembre 2018 - Octobre 2018)
 
 Mission d'intérim faisant suite à mon alternance au poste d'ingénieur informatique sur le projet web GIS
 * Traduction de l'interface web à l'aide de jQuery i18n
 * Création de pollers HTTP
 * Refactoring architectural et création de modules par fonctionnalités avec Maven
 
-## Alternant Ingénieur développement logiciels, groupe Flowbird (Septembre 2016 - Septembre 2018)
+## Alternant Ingénieur développement logiciels - groupe Flowbird (Septembre 2016 - Septembre 2018)
 
 Développement d'un système d'information géographique (SIG) web avec le framework Spring et base de données PostGIS
 * Front-end : Jquery, Google Maps API JS, HTML5/CSS3, JSON, Ajax
