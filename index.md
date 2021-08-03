@@ -14,7 +14,7 @@ email : [quentin.perez@mines-ales.fr](mailto:quentin.perez@mines-ales.fr)
 - [Activités d'enseignement](#activités-denseignement)
 - [Responsabilités et activités associatives](#responsabilités-et-activités-associatives)
 - [Sub-Reviewer](#sub-reviewer)
-- [Expérience professionnelle](#expérience-professionnell)
+- [Expérience professionnelle](#expérience-professionnelle)
 
 ***
 # Diplômes
