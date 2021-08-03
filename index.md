@@ -12,9 +12,9 @@ email : [quentin.perez@mines-ales.fr](mailto:quentin.perez@mines-ales.fr)
 - [Diplômes](#diplômes)
 - [Publications](#publications)
 - [Activités d'enseignement](#activités-denseignement)
-- [Responsabilités et activité associative](#responsabilités-et-activités-associatives)
+- [Responsabilités et activités associatives](#responsabilités-et-activités-associatives)
 - [Sub-Reviewer](#sub-reviewer)
-- [Expériences professionnelles](#expériences-professionnelles)
+- [Expérience professionnelle](#expérience-professionnell)
 
 ***
 # Diplômes
@@ -52,10 +52,11 @@ Mention : Bien (major de promotion)
 Vous pouvez retrouver mes publications sur mon [CV HAL](https://cv.archives-ouvertes.fr/quentin-perez).
 
 ### Long Paper
+* Quentin Perez, Pierre-Antoine Jean, Christelle Urtado, Sylvain Vauttier. Bug or not bug? That is the question. ICPC 2021 - 29th IEEE/ACM International Conference on Program Comprehension, May 2021, Online, France. pp.47--58, Online (CORE rang A)
 
 ### Short Paper
-* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. Towards Profiling Runtime Architecture Code Contributors in Software Projects. ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, Apr 2021, Online, United States. 
-* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468
+* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. Towards Profiling Runtime Architecture Code Contributors in Software Projects. ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, Apr 2021, Online, United States. (CORE rang B)
+* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468 (CORE rang B)
 
 ***
 
@@ -97,7 +98,7 @@ J'exerce l'ensemble de mes activités d'enseignement à IMT Mines Alès. Le volu
 
 ***
 
-# Expériences professionnelles
+# Expérience professionnelle
 
 ## Ingénieur développement logiciels - groupe Flowbird (Septembre 2018 - Octobre 2018)
 
