@@ -17,7 +17,7 @@ Email : [quentin.perez@inria.fr](mailto:quentin.perez@inria.fr)
 ***
 # Diplômes
 
-## 2021 | Doctorat en Informatique - IMT Mines Alès
+## 2021 | Doctorat en Informatique - : EuroMov Digital Health In Motion, IMT Mines Alès, France
 
 **Sujet : Gestion des contributions architecturales dans les projets logiciels : Métriques, analyses empiriques et apprentissage machine**
 
@@ -57,7 +57,7 @@ Mention : Bien (major de promotion)
 ---
 ## 2015 | DUT Informatique - Université de Franche-Comté - IUT Belfort-Montbéliard
 
-***
+---
 
 # Publications
 
@@ -87,7 +87,17 @@ Vous pouvez aussi retrouver mes publications sur mon [CV HAL](https://cv.archive
 * Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. Towards Profiling Runtime Architecture Code Contributors in Software Projects. ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, Apr 2021, Online, United States. (CORE rang B)
 * Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468. (CORE rang B)
 
-###
+## Workshop Papers
+
+* Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. A software engineering point of view on digital twin architecture. ETFA 2022 - IEEE 27th International Conference on Emerging Technologies and Factory Automation, Sep 2022, Stuttgart, Germany. 
+
+## Conférences Francophones
+
+* Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. Déploiement dirigé par les modèles de jumeaux numériques dans les environnements intelligents. HUT LaConf 2022 - L'interdisciplinarité au service des environnements intelligents, Nov 2022, Montpellier, France.
+
+# Posters
+
+* 
 
 ***
 
@@ -95,39 +105,37 @@ Vous pouvez aussi retrouver mes publications sur mon [CV HAL](https://cv.archive
 
 J'ai exercé mes enseignements principalement à l'IMT Mines Alès de 2018 à 2022 mais aussi à l'Université de Montpellier en 2021 et 2022.
 
-| Statut | Année | Établissement | Public | Niveau | Matière | Volume Horaire | Nature | Responsabilités | Supports | 
-|--------|-------|---------------|--------|--------|---------|----------------|--------|-----------------|----------|
-  | Doctorant | 2018 – 2019 | IMT Mines Alès |   | L3 (1ère année ingé généraliste) | Algorithmique et POO (Java) | 13h | TP/TD | Encadrement |   | 
- | Doctorant | 2018 – 2019 | IMT Mines Alès | INFRES | L3 (1ère année ingé par apprentissage info) | Approche objets (UML) | 15h | TP/TD | Encadrement |   | 
- | Doctorant | 2018 – 2019 | IMT Mines Alès |   | M1 (2ème année ingé généraliste spé info) | Projet GL | 16h | TP/TD | Encadrement |   | 
- | Doctorant | 2018 – 2019 | IMT Mines Alès |   | M2 (3ème année ingé généraliste spé info) | Étude Technique | 10h | Projet étudiant | Encadrement |   | 
- | Doctorant | 2018 – 2019 | IMT Mines Alès |   | M1 (2ème année ingé généraliste spé info) | Mission R&D | 20h | Projet étudiant | Encadrement |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |   | M1 (2ème année ingé généraliste spé info) | Programmation Orientée Objet | 8h | TP/TD | Encadrement |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |   | M2 (3ème année ingé généraliste spé info) | Qualité Logicielle | 6h30 | Cours | Création de cours | https://www.slideshare.net/secret/GUfJLao8HZXZHk | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |   | M2 (3ème année ingé généraliste spé info) | Bonnes pratiques logicielles | 10h | TP/TD | Encadrement |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |   | M1 (2ème année ingé généraliste spé info) | Projet GL | 16h | TP/TD | Encadrement |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |   | L3 (1ère année ingé généraliste) | Base de données relationnelles | 14h | TP/TD | Encadrement |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès | INFRES | L3 (1ère année ingé par apprentissage info) | Approche objets (UML) | 15h | TP/TD | Encadrement |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès | INFRES | L3 (1ère année ingé par apprentissage info) | Langages objets (Java) | 11h | TP/TD | Encadrement |   | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès |   | L3 (1ère année ingé généraliste) | Base de données relationnelles | 14h | TP/TD | Encadrement |   | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès | INFRES | L3 (1ère année ingé par apprentissage info) | Approche objets (UML) | 15h | TP/TD | Encadrement |   | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès | INFRES | L3 (1ère année ingé par apprentissage info) | Langages objets (Java) | 11h | TP/TD | Encadrement |   | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès |   | M2 (3ème année ingé généraliste spé info) | Qualité Logicielle | 6h30 | Cours | Création de cours | https://www.slideshare.net/secret/GUfJLao8HZXZHk | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès |   | M1 (2ème année ingé généraliste spé info) | Mission R&D | 20h | Projet étudiant | Encadrement |   | 
- | Doctorant | 2021 – 2022 | IMT Mines Alès |   | L3 (1ère année ingé généraliste) | Base de données relationnelles | 14h | TP/TD | Encadrement |   | 
- | Doctorant | 2021 – 2022 | Univ Montpellier |   | M2 | IA pour le GL | 6h | TP/TD | Création TP et encadrement | https://github.com/qperez/TP-Master-MTP-GL-IA4GL/ | 
- | Post-doc | 2022 – 2023 | Univ Montpellier |   | M2 | IA pour le GL | 9h | TP/TD | Création TP et encadrement |   | 
- | Post-doc | 2022 – 2023 | IMT Mines Alès |   | M2 (3ème année ingé généraliste spé info) | Qualité Logicielle | 9h30 | Cours | Création de cours |   | 
+| Statut    | Année       | Établissement | Public  | Niveau                                      | Matière                        | Volume Horaire  | Nature          | Responsabilités            | Supports | 
+|-----------|-------------|---------------|---------|---------------------------------------------|--------------------------------|-----------------|-----------------|----------------------------|----------|
+| Doctorant | 2018 – 2019 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Algorithmique et POO (Java)    | 13h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2018 – 2019 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2018 – 2019 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Projet GL                      | 16h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2018 – 2019 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Étude Technique                | 10h             | Projet étudiant | Encadrement                |   | 
+ | Doctorant | 2018 – 2019 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Mission R&D                    | 20h             | Projet étudiant | Encadrement                |   | 
+ | Doctorant | 2019 – 2020 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Programmation Orientée Objet   | 8h              | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2019 – 2020 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 6h30            | Cours           | Création de cours          | https://www.slideshare.net/secret/GUfJLao8HZXZHk | 
+ | Doctorant | 2019 – 2020 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Bonnes pratiques logicielles   | 10h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2019 – 2020 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Projet GL                      | 16h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2019 – 2020 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2019 – 2020 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2019 – 2020 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Langages objets (Java)         | 11h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2020 – 2021 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2020 – 2021 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2020 – 2021 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Langages objets (Java)         | 11h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2020 – 2021 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 6h30            | Cours           | Création de cours          | https://www.slideshare.net/secret/GUfJLao8HZXZHk | 
+ | Doctorant | 2020 – 2021 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Mission R&D                    | 20h             | Projet étudiant | Encadrement                |   | 
+ | Doctorant | 2021 – 2022 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
+ | Doctorant | 2021 – 2022 | Univ Montpellier |         | M2                                          | IA pour le GL                  | 6h              | TP/TD           | Création TP et encadrement | https://github.com/qperez/TP-Master-MTP-GL-IA4GL/ | 
+ | Post-doc  | 2022 – 2023 | Univ Montpellier |         | M2                                          | IA pour le GL                  | 9h              | TP/TD           | Création TP et encadrement |   | 
+ | Post-doc  | 2022 – 2023 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 9h30            | Cours           | Création de cours          |   | 
 
+---
 
-
-
-***
 # Responsabilités et activités associatives
-* Représentant des doctorants en Informatique à l'[École Doctorale I2S](https://edi2s.umontpellier.fr/) (2019-2021)
-* Représentant des doctorants au comité de pilotage du [Centre d’Enseignement et de Recherche en Informatique et Systèmes](https://www.mines-ales.fr/ecole/imt-mines-ales/les-centres-de-recherche-et-denseignement/ceris) (CERIS) (2019-2021)
-* Représentant des doctorants au comité d'unité Euromov DHM (2019-2021)
-* Trésorier de l'association des [Thésards de l'École des Mines d'Alès](https://www.linkedin.com/in/athema-mines-al%C3%A8s-13b2a113b/) (ATHEMA) (2019-2020)
+### 2019-2021 | Représentant des doctorants en Informatique à l'[École Doctorale I2S](https://edi2s.umontpellier.fr/) 
+### 2019-2021 | Représentant des doctorants au comité de pilotage du [Centre d’Enseignement et de Recherche en Informatique et Systèmes](https://www.mines-ales.fr/ecole/imt-mines-ales/les-centres-de-recherche-et-denseignement/ceris) (CERIS) (2019-2021)
+### 2019-2021 | Représentant des doctorants au comité de l'unité de recherche [https://dhm.euromov.eu](Euromov DHM) (2019-2021)
+### 2019-2020 | Trésorier de l'association des [Thésards de l'École des Mines d'Alès](https://www.linkedin.com/in/athema-mines-al%C3%A8s-13b2a113b/) (ATHEMA) (2019-2020)
 
 ***
 # Sub-Reviewer
@@ -142,16 +150,22 @@ J'ai exercé mes enseignements principalement à l'IMT Mines Alès de 2018 à 20
 
 # Expérience professionnelle
 
-## Ingénieur développement logiciels - groupe Flowbird (Septembre 2018 - Octobre 2018)
+## Dec. 2021 - Dec 2022 | Chercheur post-doctorant à IMT Mines Alès, projet TwinCoBot financé par l'institut Carnot Télécom.
+
+Projet d'essaimage financé par l'Institut Carnot Télécom sur les jumeaux numériques (Digital Twins) dans les contextes d'environnements connectés domotiques et l'industrie 4.0. Réalisation d'un méta-modèle générique à ces 2 cas d'usage ainsi que d'un démonstrateur de jumeau numérique d'appartement connecté en lien avec le projet HUman aT project (HUT). 
+
+## Oct. 2018 - Dec. 2021 | Doctorant en Informatique à IMT Mines Alès
+
+## Sept. 2018 - Oct. 2018 | Ingénieur développement logiciels - groupe Flowbird 
 
 Mission d'intérim faisant suite à mon alternance au poste d'ingénieur informatique sur le projet web GIS
 * Traduction de l'interface web à l'aide de jQuery i18n
 * Création de pollers HTTP
 * Refactoring architectural et création de modules par fonctionnalités avec Maven
 
-## Alternant Ingénieur développement logiciels - groupe Flowbird (Septembre 2016 - Septembre 2018)
+##  Sept. 2016 - Sept. 2018 | Alternant Ingénieur développement logiciels - groupe Flowbird
 
-Développement d'un système d'information géographique (SIG) web avec le framework Spring et base de données PostGIS
+Développement d'un système d'information géographique (SIG) web from Scratch avec le framework Spring et base de données PostGIS
 * Front-end : Jquery, Google Maps API JS, HTML5/CSS3, JSON, Ajax
 * Back-end : Java et framework Spring
 * Base de données : PostGIS
