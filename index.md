@@ -7,13 +7,20 @@ Post-Doctorant @ DiverSE - IRISA, Inria, Univ Rennes, France
 
 Email : [quentin.perez@inria.fr](mailto:quentin.perez@inria.fr)
 
-- [Diplômes](#diplômes)
-- [Publications](#publications)
-- [Activités d'enseignement](#activités-denseignement)
-- [Responsabilités et activités associatives](#responsabilités-et-activités-associatives)
-- [Sub-Reviewer](#sub-reviewer)
-- [Expérience professionnelle](#expérience-professionnelle)
-
+Rubrique :
+<!-- TOC -->
+* [Diplômes](#diplômes)
+* [Publications](#publications)
+  * [Conférences Internationales](#conférences-internationales)
+  * [Workshop Papers](#workshop-papers)
+  * [Conférences Francophones](#conférences-francophones)
+* [Posters](#posters)
+* [Activités d'enseignement](#activités-denseignement)
+* [Responsabilités et activités associatives](#responsabilités-et-activités-associatives)
+* [Sub-Reviewer](#sub-reviewer)
+  * [Conférences](#conférences)
+* [Expérience professionnelle](#expérience-professionnelle)
+<!-- TOC -->
 ***
 # Diplômes
 
@@ -105,6 +112,8 @@ Vous pouvez aussi retrouver mes publications sur mon [CV HAL](https://cv.archive
 
 J'ai exercé mes enseignements principalement à l'IMT Mines Alès de 2018 à 2022 mais aussi à l'Université de Montpellier en 2021 et 2022.
 
+## Tableau récapitulatif des enseignements dispensés
+
 | Statut    | Année       | Établissement | Public  | Niveau                                      | Matière                        | Volume Horaire  | Nature          | Responsabilités            | Supports | 
 |-----------|-------------|---------------|---------|---------------------------------------------|--------------------------------|-----------------|-----------------|----------------------------|----------|
 | Doctorant | 2018 – 2019 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Algorithmique et POO (Java)    | 13h             | TP/TD           | Encadrement                |   | 
@@ -129,12 +138,33 @@ J'ai exercé mes enseignements principalement à l'IMT Mines Alès de 2018 à 20
  | Post-doc  | 2022 – 2023 | Univ Montpellier |         | M2                                          | IA pour le GL                  | 9h              | TP/TD           | Création TP et encadrement |   | 
  | Post-doc  | 2022 – 2023 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 9h30            | Cours           | Création de cours          |   | 
 
+## Création de cours et TP
+
+### Université de Montpellier, Master Informatique M2 (parcours GL) - Intelligence Artificielle pour le Génie Logiciel
+**6h en 2021 puis 9h en 2022.**
+
+Ce TP a été monté afin d'offir aux étudiants en Master Informatique (parcours Génie Logiciel) de l'Université de 
+Montpellier une ouverture sur l'utilisation de méthodes d'intelligence artificielle pour des problèmatiques GL. 
+Ces TP s'inspirent de nos travaux de recherche. Dans une première partie du TP il est demandé aux étudiants de créer un 
+prédicteur du nombre de développeurs expérimentés en fonction du nombre de lignes de code.
+Une seconde partie de ce TP s'intéresse à la construction d'un classifieur de tickets de bogue via de l'apprentissage supervisé
+et un corpus de tickets fourni. 
+
+Ce TP permet aux étudiants de mettre en oeuvre des méthodes et outils acquis par ailleurs dans d'autre module sur 
+un cadre applicatif GL. Ainsi, cela permet pédagogiquement de croiser les approches et les réflexions autour 
+de thématiques liées à l'IA et au GL. 
+
+Les deux TPs sont réalisés sous forme de Notebook Jupyter sur Google Colab afin de facilité l'installation et l'utilisation des outils
+mais aussi pour guider au mieux les étudiants sur le workflow à mettre en oeuvre.
+* [TP1 Classification de développeurs et prédiction du nombre requis](https://colab.research.google.com/drive/1dkdA1rcTDjyyMPj07ICgyVOOND-kWjPv)
+* [TP2 Classification de tickets](https://colab.research.google.com/drive/1eH9HSTJDrxr9wSOVnr-V9KlhTQMy5mGj)
+
 ---
 
 # Responsabilités et activités associatives
 ### 2019-2021 | Représentant des doctorants en Informatique à l'[École Doctorale I2S](https://edi2s.umontpellier.fr/) 
 ### 2019-2021 | Représentant des doctorants au comité de pilotage du [Centre d’Enseignement et de Recherche en Informatique et Systèmes](https://www.mines-ales.fr/ecole/imt-mines-ales/les-centres-de-recherche-et-denseignement/ceris) (CERIS) (2019-2021)
-### 2019-2021 | Représentant des doctorants au comité de l'unité de recherche [https://dhm.euromov.eu](Euromov DHM) (2019-2021)
+### 2019-2021 | Représentant des doctorants au comité de l'unité de recherche [Euromov DHM](https://dhm.euromov.eu) (2019-2021)
 ### 2019-2020 | Trésorier de l'association des [Thésards de l'École des Mines d'Alès](https://www.linkedin.com/in/athema-mines-al%C3%A8s-13b2a113b/) (ATHEMA) (2019-2020)
 
 ***
@@ -171,7 +201,7 @@ Développement d'un système d'information géographique (SIG) web from Scratch 
 * Base de données : PostGIS
 * Ontologie des données : Schema.org et JSON-LD
 * Livraison sous forme d'images Docker sur plate-forme Amazon Web Service Elastic Container Registery (AWS ECR)
-* Tests et qualité logicielle:
+* Tests et qualité logicielle :
   - Construction : Maven
   - Tests unitaires : JUnit
   - Tests fonctionnels : JUnit/ Cucumber
