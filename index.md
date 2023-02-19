@@ -11,15 +11,22 @@ Rubrique :
 <!-- TOC -->
 * [Diplômes](#diplômes)
 * [Publications](#publications)
+  * [Journal Paper](#journal-paper)
   * [Conférences Internationales](#conférences-internationales)
+    * [Regular Papers](#regular-papers)
+    * [Short Papers](#short-papers)
   * [Workshop Papers](#workshop-papers)
   * [Conférences Francophones](#conférences-francophones)
 * [Posters](#posters)
 * [Activités d'enseignement](#activités-denseignement)
+  * [Tableau récapitulatif des enseignements dispensés](#tableau-récapitulatif-des-enseignements-dispensés)
+  * [Création de cours et TP](#création-de-cours-et-tp)
 * [Responsabilités et activités associatives](#responsabilités-et-activités-associatives)
-* [Sub-Reviewer](#sub-reviewer)
-  * [Conférences](#conférences)
 * [Expérience professionnelle](#expérience-professionnelle)
+* [Qualification](#qualification)
+* [Certification](#certification)
+* [Comité de programme](#comité-de-programme)
+* [Sub-Reviewer](#sub-reviewer)
 <!-- TOC -->
 ***
 # Diplômes
@@ -68,14 +75,15 @@ Mention : Bien (major de promotion)
 
 # Publications
 
-## Conférences Internationales
-
-Vous pouvez aussi retrouver mes publications sur mon [CV HAL](https://cv.archives-ouvertes.fr/quentin-perez).
-
-### Journal Paper
+## Journal Paper
 
 * Quentin Perez, Christelle Urtado, Sylvain Vauttier. Dataset of open-source software developers labeled by their experience level in the project and their associated software metrics. Data in Brief, 2023, 46, pp.108842.
 
+
+## Conférences Internationales
+
+Vous pouvez aussi retrouver mes publications sur mon [CV HAL](https://cv.archives-ouvertes.fr/quentin-perez).
+ 
 ### Regular Papers
 
 #### Publications de rang A (CORE)
@@ -104,7 +112,7 @@ Vous pouvez aussi retrouver mes publications sur mon [CV HAL](https://cv.archive
 
 # Posters
 
-* 
+* Alireza Asvadi, Gaëlic Bechu, Antoine Beugnard, Caroline G. L. Cao, Christophe Lohr, Quentin Perez, Christelle Urtado et Sylvain Vauttier. Model-driven deployment of Digital Twins for Smart Environments - The HUman at home projecT case study. Journées nationales du GDR GPL 2022, Jun 2022, Vannes, France. , 13, 2022, Actes des journées du GDR GPL 2022.
 
 ***
 
@@ -140,6 +148,27 @@ J'ai exercé mes enseignements principalement à l'IMT Mines Alès de 2018 à 20
 
 ## Création de cours et TP
 
+### IMT Mines Alès, 3ème année (M2) d'ingénieur généraliste (parcours Ingénierie Logicielle) - Qualité Logicielle
+**6h30 en 2021 puis 9h30 en 2022.**
+
+J'ai monté ce cours avec pour objectif d'apprendre aux étudiants les méthodes et les outils permettant un développement 
+logiciel de manière industrielle. Dans ce cours sont abordées les notions de modularité, de construction et de 
+packaging avec gestionnaire de construction (Maven). 
+Une introduction aux différents niveaux/types de tests logiciels est donnée. Le concept d'intégration continue est 
+également abordé. Sur la base de ce cours un TP a été créé pour permettre aux étudiants d'expérimenter le refactoring
+avec Maven, la création de tests unitaires avec JUnit5, 
+la rédaction de tests fonctionnels avec Cucumber ainsi que l'intégration continue à l'aide de GitHub et Travis CI.
+
+Les étudiants travaillent sur la modélisation objet d'une machine à café polymorphique et composé de divers composants
+(moulin, réservoir à eau/café, résistance, etc.). Ce projet sous Maven est buggé à dessein et la construction échoue.
+Les étudiants ont pour object de corriger le build puis de refactorer le projet en créant un nouveau module Maven. Ils 
+doivent ensuite implémenter quelques cas de test fonctionnels avec Cucumber et mettre en place une intégration
+continue à l'aide Github Actions.
+
+Le dépôt Github suivant contient le code du TP ainsi que les slides de cours créés pour ce dernier :
+* [https://github.com/qperez/cours-IL-Maven-2022](https://github.com/qperez/cours-IL-Maven-2022)
+
+
 ### Université de Montpellier, Master Informatique M2 (parcours GL) - Intelligence Artificielle pour le Génie Logiciel
 **6h en 2021 puis 9h en 2022.**
 
@@ -154,8 +183,8 @@ Ce TP permet aux étudiants de mettre en oeuvre des méthodes et outils acquis p
 un cadre applicatif GL. Ainsi, cela permet pédagogiquement de croiser les approches et les réflexions autour 
 de thématiques liées à l'IA et au GL. 
 
-Les deux TPs sont réalisés sous forme de Notebook Jupyter sur Google Colab afin de facilité l'installation et l'utilisation des outils
-mais aussi pour guider au mieux les étudiants sur le workflow à mettre en oeuvre.
+Les deux parties du TP sont réalisés sous forme de Notebook Jupyter sur Google Colab afin de facilité l'installation et l'utilisation des outils
+mais aussi pour guider au mieux les étudiants sur le workflow à mettre en œuvre.
 * [TP1 Classification de développeurs et prédiction du nombre requis](https://colab.research.google.com/drive/1dkdA1rcTDjyyMPj07ICgyVOOND-kWjPv)
 * [TP2 Classification de tickets](https://colab.research.google.com/drive/1eH9HSTJDrxr9wSOVnr-V9KlhTQMy5mGj)
 
@@ -167,17 +196,6 @@ mais aussi pour guider au mieux les étudiants sur le workflow à mettre en oeuv
 ### 2019-2021 | Représentant des doctorants au comité de l'unité de recherche [Euromov DHM](https://dhm.euromov.eu) (2019-2021)
 ### 2019-2020 | Trésorier de l'association des [Thésards de l'École des Mines d'Alès](https://www.linkedin.com/in/athema-mines-al%C3%A8s-13b2a113b/) (ATHEMA) (2019-2020)
 
-***
-# Sub-Reviewer
-
-## Conférences
-* SEKE 2019 : 1 article 
-* SEKE 2020 : 1 article
-* SANER 2020 : 1 article
-* ASE 2020 : 1 article
-
-***
-
 # Expérience professionnelle
 
 ## Dec. 2021 - Dec 2022 | Chercheur post-doctorant à IMT Mines Alès, projet TwinCoBot financé par l'institut Carnot Télécom.
@@ -186,14 +204,14 @@ Projet d'essaimage financé par l'Institut Carnot Télécom sur les jumeaux num�
 
 ## Oct. 2018 - Dec. 2021 | Doctorant en Informatique à IMT Mines Alès
 
-## Sept. 2018 - Oct. 2018 | Ingénieur développement logiciels - groupe Flowbird 
+## Sept. 2018 - Oct. 2018 | Ingénieur développement logiciel - groupe Flowbird 
 
 Mission d'intérim faisant suite à mon alternance au poste d'ingénieur informatique sur le projet web GIS
 * Traduction de l'interface web à l'aide de jQuery i18n
 * Création de pollers HTTP
 * Refactoring architectural et création de modules par fonctionnalités avec Maven
 
-##  Sept. 2016 - Sept. 2018 | Alternant Ingénieur développement logiciels - groupe Flowbird
+##  Sept. 2016 - Sept. 2018 | Alternant Ingénieur développement logiciel - groupe Flowbird
 
 Développement d'un système d'information géographique (SIG) web from Scratch avec le framework Spring et base de données PostGIS
 * Front-end : Jquery, Google Maps API JS, HTML5/CSS3, JSON, Ajax
@@ -212,3 +230,27 @@ Développement d'un système d'information géographique (SIG) web from Scratch 
 Missions annexes :
   - Maintenance applicative sur serveur cartographique Dataiku
   - Rédaction de documentations fonctionnelles à destinations des managers et ingénieurs d'affaires
+
+# Qualification
+
+Qualification aux fonctions de Maitre de Conférence, section 27 obtenue en 2022 : [https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2022/qualifies_MCF_2022.pdf](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2022/qualifies_MCF_2022.pdf)
+
+# Certification
+
+## Testeur logiciel niveau fondation de l'International Software Testing Qualifications Board (ISTQB)
+ID de certification : [57998](http://scr.istqb.org/?name=&number=57998)
+
+***
+
+# Comité de programme 
+
+---
+# Sub-Reviewer
+
+## Conférences
+* SEKE 2019 : 1 article 
+* SEKE 2020 : 1 article
+* SANER 2020 : 1 article
+* ASE 2020 : 1 article
+
+***
