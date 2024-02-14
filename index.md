@@ -3,12 +3,36 @@ layout: default
 ---
 ![photo Quentin Perez](https://cv.archives-ouvertes.fr/photo/762591/large?v=1616602965)
 
-**Associate Professor of Software Engineering at [INSA Rennes](https://www.insa-rennes.fr/index.html) - Research in the [DiverSE Team](https://www.diverse-team.fr/), IRISA, Inria, Univ Rennes, CNRS - France**
+**Associate Professor of Software Engineering at [INSA Rennes](https://www.insa-rennes.fr/index.html) - Research in the 
+[DiverSE Team](https://www.diverse-team.fr/), IRISA, Inria, Univ Rennes, CNRS - France**
 
-### Social
-- :email: Email: [quentin.perez@inria.fr](mailto:quentin.perez@inria.fr)
-- :octocat: Github: 
-- 
+# About me
+
+Hello :wave: , I'm associate professor of Software Engineering at [INSA Rennes](https://www.insa-rennes.fr/index.html). 
+I'm doing research in the [DiverSE Team](https://www.diverse-team.fr/) in the IRISA/Inria lab at Rennes in France. 
+
+My research interests are the following:
+- Software Energy Consumption and Green IT :seedling:
+- Empirical Software Engineering
+- Software Metrics and Quality
+- AI for Software Quality
+
+Currently, I'm working on the energy consumption of the software supply chain (CI/CD and build managers) used in the 
+DevOps loop. These systems are interesting to study due to their massive, automatic, and frequent use in DevOps. 
+Supply chains use various tools to build software, and their high configurability gives them a special status in the 
+software world. My research consists of finding solutions to reduce the consumption of DevOps tools and providing 
+developers with a perception and evaluation of the software energy consumption in the DevOps loop. 
+To achieve this, I employed a mining software engineering approach to collect and evaluate tools used in the DevOps 
+world at a large scale. 
+
+# Contact and social networks
+- Email : quentin.perez at_ irisa.fr :email:
+- [Google Scholar](https://scholar.google.com/citations?user=xZYkVhsAAAAJ&hl)
+- [HAL](https://cv.archives-ouvertes.fr/quentin-perez) :newspaper:
+- [ORCID](https://orcid.org/0000-0002-1534-4821) :scroll:
+- [LinkedIn](https://www.linkedin.com/in/quentin-perez-93b832a4)
+- [Github](https://github.com/qperez) :technologist:
+- [Twitter](https://twitter.com/qperez19) :bird:
 
 Rubrique :
 <!-- TOC -->
