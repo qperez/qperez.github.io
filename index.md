@@ -53,13 +53,14 @@ Rubrique :
 * [Sub-Reviewer](#sub-reviewer)
 <!-- TOC -->
 ***
+
 # Education
 
 ### 2021 | Ph.D. in Software Engineering - EuroMov Digital Health In Motion, IMT Mines Alès, France
 
 **Title: Managing architectural contributions in software projects : Metrics, empirical analysis and machine learning**
 
-**Advisors:** [Christelle Urtado](https://cv.hal.science/christelleurtado) et [Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/)
+**Advisors:** [Christelle Urtado](https://cv.hal.science/christelleurtado) and [Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/)
 
 **Jury:**
 
@@ -112,6 +113,10 @@ You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quent
 
 * Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. Towards Profiling Runtime Architecture Code Contributors in Software Projects. ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, Apr 2021, Online, United States. (CORE rang B)
 * Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468. (CORE rang B)
+
+## Book Chapters
+
+* Agustín Olmedo, Gabriela Arévalo, Ignacio Cassol, Quentin Perez, Christelle Urtado, et al.. Pull Requests Integration Process Optimization: An Empirical Study. Hermann Kaindl, Mike Mannion and Leszek A. Maciaszek. Evaluation of Novel Approaches to Software Engineering, 1829, Springer, pp.155-178, 2023, Communications in Computer and Information Science, 978-3-031-36596-6. [Link HAL](https://imt-mines-ales.hal.science/hal-04157804)
 
 ## Workshop Papers
 
