@@ -29,13 +29,13 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 [Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/). 
 
 # Contact and social networks
-- Email : quentin.perez at_ irisa.fr :email:
-- [Google Scholar](https://scholar.google.com/citations?user=xZYkVhsAAAAJ&hl)
+- Email : quentin.perez at_ irisa.fr
+- [Google Scholar](https://scholar.google.com/citations?user=xZYkVhsAAAAJ&hl) :scroll:
 - [HAL](https://cv.archives-ouvertes.fr/quentin-perez) :newspaper:
 - [ORCID](https://orcid.org/0000-0002-1534-4821) :scroll:
 - [LinkedIn](https://www.linkedin.com/in/quentin-perez-93b832a4)
 - [Github](https://github.com/qperez) :technologist:
-- [Twitter](https://twitter.com/qperez19) :bird:
+- [Twitter / X](https://twitter.com/qperez19) :bird:
 
 Rubrique :
 <!-- TOC -->
