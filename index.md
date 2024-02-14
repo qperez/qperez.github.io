@@ -11,11 +11,11 @@ layout: default
 Hello :wave: , I'm associate professor of Software Engineering at [INSA Rennes](https://www.insa-rennes.fr/index.html). 
 I'm doing research in the [DiverSE Team](https://www.diverse-team.fr/) in the IRISA/Inria lab at Rennes in France. 
 
-My research interests are the following:
-- Software Energy Consumption and Green IT :seedling:
-- Empirical Software Engineering
-- Software Metrics and Quality
-- AI for Software Quality
+My **research interests** are the following:
+- **Software Energy Consumption and Green IT :seedling:**
+- **Empirical Software Engineering**
+- **Software Metrics and Quality**
+- **AI for Software Quality**
 
 Currently, I'm working on the energy consumption of the software supply chain (CI/CD and build managers) used in the 
 DevOps loop. These systems are interesting to study due to their massive, automatic, and frequent use in DevOps. 
@@ -24,6 +24,9 @@ software world. My research consists of finding solutions to reduce the consumpt
 developers with a perception and evaluation of the software energy consumption in the DevOps loop. 
 To achieve this, I employed a mining software engineering approach to collect and evaluate tools used in the DevOps 
 world at a large scale. 
+
+I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervision of [Christelle Urtado](https://cv.hal.science/christelleurtado) and
+[Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/). 
 
 # Contact and social networks
 - Email : quentin.perez at_ irisa.fr :email:
@@ -36,15 +39,9 @@ world at a large scale.
 
 Rubrique :
 <!-- TOC -->
-* [Diplômes](#diplômes)
+* [About Me](#about-me)
 * [Publications](#publications)
-  * [Journal Paper](#journal-paper)
-  * [Conférences Internationales](#conférences-internationales)
-    * [Regular Papers](#regular-papers)
-    * [Short Papers](#short-papers)
-  * [Workshop Papers](#workshop-papers)
-  * [Conférences Francophones](#conférences-francophones)
-* [Posters](#posters)
+* [Education](#education)
 * [Activités d'enseignement](#activités-denseignement)
   * [Tableau récapitulatif des enseignements dispensés](#tableau-récapitulatif-des-enseignements-dispensés)
   * [Création de cours et TP](#création-de-cours-et-tp)
@@ -56,15 +53,15 @@ Rubrique :
 * [Sub-Reviewer](#sub-reviewer)
 <!-- TOC -->
 ***
-# Diplômes
+# Education
 
-## 2021 | Doctorat en Informatique - : EuroMov Digital Health In Motion, IMT Mines Alès, France
+### 2021 | Ph.D. in Software Engineering - EuroMov Digital Health In Motion, IMT Mines Alès, France
 
-**Sujet : Gestion des contributions architecturales dans les projets logiciels : Métriques, analyses empiriques et apprentissage machine**
+**Title: Managing architectural contributions in software projects : Metrics, empirical analysis and machine learning**
 
-**Directeur·e·s de thèse :** [Christelle Urtado](https://cv.hal.science/christelleurtado) et [Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/)
+**Advisors:** [Christelle Urtado](https://cv.hal.science/christelleurtado) et [Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/)
 
-**Jury :**
+**Jury:**
 
 |                    |         |                             |             |
 |--------------------|---------|-----------------------------|-------------|
@@ -75,56 +72,43 @@ Rubrique :
 | Christelle URTADO  | MA HDR  | EuroMov DHM, IMT Mines Alès | Directrice  |
 | Sylvain VAUTTIER   | MA HDR  | EuroMov DHM, IMT Mines Alès | Directeur   |
 
-**Slides de la soutenance** : [https://drive.google.com/file/d/1oBxeE1bw01A86U2IDtWAiRvIaICsX7fJ/view?usp=sharing](https://drive.google.com/file/d/1oBxeE1bw01A86U2IDtWAiRvIaICsX7fJ/view?usp=sharing)
+**Defense slides (in french):** [https://drive.google.com/file/d/1oBxeE1bw01A86U2IDtWAiRvIaICsX7fJ/view?usp=sharing](https://drive.google.com/file/d/1oBxeE1bw01A86U2IDtWAiRvIaICsX7fJ/view?usp=sharing)
 
-**Vidéo de la soutance** : [https://www.youtube.com/watch?v=WN5B3RrTwRE](https://www.youtube.com/watch?v=WN5B3RrTwRE)
-
-**Résumé :** En génie logiciel, l’outillage des processus de développement est aujourd’hui indispensable à la gestion qualitative des projets et peut couvrir différentes phases : conception, codage ou maintenance. Cet outillage protéiforme regroupe les mesures appelées métriques, les systèmes automatisés de production de code et les systèmes d’aide à la décision, prédictifs ou non. Le champ d’application de ces derniers est large : détection de bad smells, classification de tickets, etc. Dans cette thèse, nous nous intéressons à la production de métriques portant sur la conduite des projets logiciels en s’appuyant sur les contributions au code source et plus particulièrement à l’architecture runtime des applications. Nous utilisons également des méta-données liées à l’historique du projet et à son développement.La première problématique étudiée concerne la classification de tickets logiciels décrivant des bogues. Nous entraînons un réseau de neurones sur un jeu de données reconnu par la communauté scientifique et nous optimisons ses hyper-paramètres à l’aide d’un algorithme génétique. De cette manière, nous obtenons des performances de classification supérieures à l’état de l’art. Ces performances permettent d’envisager l’intégration de notre classifieur dans des outils de gestion de projets ou dans un assistant à la rédaction de tickets.La deuxième question abordée est le turn-over des développeurs contribuant au développement de l’architecture logicielle. La détection des développeurs contribuant de manière majeure ou mineure a déjà été formulée et des métriques dédiées proposées. Cependant, les approches existantes ne se focalisent pas spécifiquement sur le développement de l’architecture. C’est pourquoi nous avons créé un modèle formel ainsi qu’une métrique de contribution au code de l’architecture. Nous validons cette métrique de manière empirique puis nous proposons une analyse des différentes catégories de développeurs extraites par notre métrique. Les résultats mettent en lumière la présence de catégories de développeurs spécifiques dont un noyau de développeurs expérimentés contribuant de manière majeure au code de l’architecture durant toute la vie du projet.La détection des développeurs expérimentés ayant de potentielles connaissances en architectures est également un problème que nous étudions. Contrairement aux approches existantes, nous utilisons l’apprentissage supervisé pour apprendre des profils de développeurs expérimentés. Aucun jeu de données étiquetées n’étant disponible dans la littérature scientifique, nous avons créé un jeu de données dédié. Pour cela nous extrayons plusieurs centaines de développeurs issus de 17 projets open source. Nous calculons ensuite 23 métriques pour chacun des développeurs contribuant à ces projets. Enfin, nous étiquetons notre jeu de données manuellement en utilisant les réseaux sociaux professionnels ainsi que la documentation des projets. Nous entraînons ensuite un classifieur sur ce jeu de données et nous l’évaluons. Nos résultats montrent de bonnes performances sur la détection de profils de développeur expérimentés, ce qui permet d’envisager l’utilisation d’un tel outil pour faciliter le management des projets. Enfin, nous réalisons une étude par croisement des résultats obtenus via la métrique de contribution à l’architecture et ceux obtenus par la classification automatique des développeurs. Cette étude permet d’analyser le profil des développeurs expérimentés. Nous analysons également l’évolution des 23 métriques des développeurs durant leur passage d’inexpérimenté à expérimenté. Les résultats montrent qu’une grande part des développeurs expérimentés sont également des contributeurs majeurs à l’architecture et que le changement de catégorie d’un développeur est multifactoriel.Nous fournissons également une évaluation de la reproductibilité de nos travaux en utilisant des cadres méthodologiques définis pour les études en génie logiciel empirique et en apprentissage automatique. 
+**Defense video (in french):** [https://www.youtube.com/watch?v=WN5B3RrTwRE](https://www.youtube.com/watch?v=WN5B3RrTwRE)
 
 ---
-## 2018 | Master en Informatique - Université de Franche-Comté - UFR-Sciences et Techniques 
-
-Master en Informatique obtenu à l'Université de Franche-Comté et effectué en alternance de 24 mois avec le [groupe Flowbird](https://www.linkedin.com/company/flowbird-group/), leader mondial dans les solutions dédiées au stationnement.
-
-Spécialité : Ingénierie Systèmes et Logiciels.
-
-Sujet de Master : Conception et développement d'un système d'information géographique dédié au stationnement. Sujet réalisé sous la direction de [Fabrice Bouquet](https://members.femto-st.fr/fbouquet/) (université) et Judicaël Bully (entreprise Flowbird)
-
-Mention : Bien (major de promotion)
+### 2018 | MSc. in Software Engineering - University of Franche-Comté - UFR-Sciences et Techniques, France
 
 ---
-## 2016 | Licence Informatique - Université de Franche-Comté - UFR-Sciences et Techniques
+### 2016 | Bachelor in Software Engineering - University of Franche-Comté - UFR-Sciences et Techniques, France
 
 ---
-## 2015 | DUT Informatique - Université de Franche-Comté - IUT Belfort-Montbéliard
+### 2015 | Associate's Degree (DUT) in Computer Sciences - University of Franche-Comté - IUT Belfort-Montbéliard, France
 
 ---
 
 # Publications
-
+You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quentin-perez).
 ## Journal Paper
 
 * Quentin Perez, Christelle Urtado, Sylvain Vauttier. Dataset of open-source software developers labeled by their experience level in the project and their associated software metrics. Data in Brief, 2023, 46, pp.108842.
 
+## International Conferences
 
-## Conférences Internationales
-
-Vous pouvez aussi retrouver mes publications sur mon [CV HAL](https://cv.archives-ouvertes.fr/quentin-perez).
- 
 ### Regular Papers
 
-#### Publications de rang A (CORE)
+#### A rank publications (CORE)
 * Corentin Latappy, Quentin Perez, Thomas Degueule, Jean-Rémy Falleri ,Christelle Urtado, Sylvain Vauttier, Xavier Blanc, Cédric Teyton. MLinter: Learning Coding Practices from Examples-Dream or Reality? SANER 2023 - 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, March 2023, Macao, China, Online (**CORE rang A**)
 
 * Quentin Perez, Pierre-Antoine Jean, Christelle Urtado, Sylvain Vauttier. Bug or not bug? That is the question. ICPC 2021 - 29th IEEE/ACM International Conference on Program Comprehension, May 2021, Online, France. pp.47--58, Online (**CORE rang A**)
 
-#### Publications de rang B (CORE)
+#### B rank publications (CORE)
 
 *  Quentin Perez, Christelle Urtado, Sylvain Vauttier. Mining Experienced Developers in Open-source Projects. ENASE 2022 - 17th International Conference on Evaluation of Novel Approaches to Software Engineering, Apr 2022, Online, France. pp.443-452. (CORE rang B)
 
 ### Short Papers
 
-#### Publications de rang B (CORE)
+#### B rank publications (CORE)
 
 * Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. Towards Profiling Runtime Architecture Code Contributors in Software Projects. ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, Apr 2021, Online, United States. (CORE rang B)
 * Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468. (CORE rang B)
@@ -133,21 +117,22 @@ Vous pouvez aussi retrouver mes publications sur mon [CV HAL](https://cv.archive
 
 * Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. A software engineering point of view on digital twin architecture. ETFA 2022 - IEEE 27th International Conference on Emerging Technologies and Factory Automation, Sep 2022, Stuttgart, Germany. 
 
-## Conférences Francophones
+## Francophone conferences
 
 * Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. Déploiement dirigé par les modèles de jumeaux numériques dans les environnements intelligents. HUT LaConf 2022 - L'interdisciplinarité au service des environnements intelligents, Nov 2022, Montpellier, France.
 
-# Posters
+## Posters
 
 * Alireza Asvadi, Gaëlic Bechu, Antoine Beugnard, Caroline G. L. Cao, Christophe Lohr, Quentin Perez, Christelle Urtado et Sylvain Vauttier. Model-driven deployment of Digital Twins for Smart Environments - The HUman at home projecT case study. Journées nationales du GDR GPL 2022, Jun 2022, Vannes, France. , 13, 2022, Actes des journées du GDR GPL 2022.
 
 ***
 
-# Activités d'enseignement
+# Teachching
 
-J'ai exercé mes enseignements principalement à l'IMT Mines Alès de 2018 à 2022 mais aussi à l'Université de Montpellier en 2021 et 2022.
+## Past 
+I mainly taught at IMT Mines Alès from 2018 to 2022 but also at the University of Montpellier in 2021 and 2022.
 
-## Tableau récapitulatif des enseignements dispensés
+### Tableau récapitulatif des enseignements dispensés
 
 | Statut    | Année       | Établissement | Public  | Niveau                                      | Matière                        | Volume Horaire  | Nature          | Responsabilités            | Supports | 
 |-----------|-------------|---------------|---------|---------------------------------------------|--------------------------------|-----------------|-----------------|----------------------------|----------|
