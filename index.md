@@ -132,7 +132,7 @@ You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quent
 
 ***
 
-# Teachching
+# Teaching
 
 ## Past 
 I mainly taught at IMT Mines Alès from 2018 to 2022 but also at the University of Montpellier in 2021 and 2022.
