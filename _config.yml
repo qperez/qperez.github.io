@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 title: Quentin Perez
-description: Post-Doctorant en Génie Logiciel - DiverSE, IRISA, Inria, univ Rennes
+description: Associate Professor of Software Engineering @ INSA Rennes - Research in the DiverSE Team
 download: False
+plugins:
+  - jemoji

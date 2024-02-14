@@ -3,9 +3,12 @@ layout: default
 ---
 ![photo Quentin Perez](https://cv.archives-ouvertes.fr/photo/762591/large?v=1616602965)
 
-Post-Doctorant @ DiverSE - IRISA, Inria, Univ Rennes, France
+**Associate Professor of Software Engineering at [INSA Rennes](https://www.insa-rennes.fr/index.html) - Research in the [DiverSE Team](https://www.diverse-team.fr/), IRISA, Inria, Univ Rennes, CNRS - France**
 
-Email : [quentin.perez@inria.fr](mailto:quentin.perez@inria.fr)
+### Social
+- :email: Email: [quentin.perez@inria.fr](mailto:quentin.perez@inria.fr)
+- :octocat: Github: 
+- 
 
 Rubrique :
 <!-- TOC -->
