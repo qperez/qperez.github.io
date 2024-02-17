@@ -37,21 +37,15 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 - [Github](https://github.com/qperez) :technologist:
 - [Twitter / X](https://twitter.com/qperez19) :bird:
 
-Rubrique :
+# Table of contents:
 <!-- TOC -->
 * [About Me](#about-me)
 * [Publications](#publications)
 * [Education](#education)
-* [Activités d'enseignement](#activités-denseignement)
-  * [Tableau récapitulatif des enseignements dispensés](#tableau-récapitulatif-des-enseignements-dispensés)
-  * [Création de cours et TP](#création-de-cours-et-tp)
-* [Responsabilités et activités associatives](#responsabilités-et-activités-associatives)
-* [Expérience professionnelle](#expérience-professionnelle)
-* [Qualification](#qualification)
-* [Certification](#certification)
-* [Comité de programme](#comité-de-programme)
-* [Sub-Reviewer](#sub-reviewer)
+* [Teaching](#teaching)
 <!-- TOC -->
+
+
 ***
 
 # Education
@@ -64,18 +58,20 @@ Rubrique :
 
 **Jury:**
 
-|                    |         |                             |             |
-|--------------------|---------|-----------------------------|-------------|
-| Xavier BLANC       | PR      | LABRI, Univ. de Bordeaux    | Rapporteur  |
-| Anne ETIEN         | PR      | CRIStAL, Univ. de Lille     | Rapportrice |
-| Antoine BEUGNARD   | PR      | Lab-STICC, IMT Atlantique   | Président   |
-| Chouki TIBERMACINE | MCF HDR | LIRMM, Univ. de Montpellier | Examinateur |
-| Christelle URTADO  | MA HDR  | EuroMov DHM, IMT Mines Alès | Directrice  |
-| Sylvain VAUTTIER   | MA HDR  | EuroMov DHM, IMT Mines Alès | Directeur   |
+|                    |                  |                             |             |
+|--------------------|------------------|-----------------------------|-------------|
+| Xavier BLANC       | Professor        | LABRI, Univ. of Bordeaux    | Rapporteur  |
+| Anne ETIEN         | Professor        | CRIStAL, Univ. of Lille     | Rapportrice |
+| Antoine BEUGNARD   | Professor        | Lab-STICC, IMT Atlantique   | Président   |
+| Chouki TIBERMACINE | Assoc. Prof. HDR | LIRMM, Univ. of Montpellier | Examiner    |
+| Christelle URTADO  | Assoc. Prof. HDR | EuroMov DHM, IMT Mines Alès | Supervisor  |
+| Sylvain VAUTTIER   | Assoc. Prof. HDR | EuroMov DHM, IMT Mines Alès | Supervisor  |
 
 **Defense slides (in french):** [https://drive.google.com/file/d/1oBxeE1bw01A86U2IDtWAiRvIaICsX7fJ/view?usp=sharing](https://drive.google.com/file/d/1oBxeE1bw01A86U2IDtWAiRvIaICsX7fJ/view?usp=sharing)
 
 **Defense video (in french):** [https://www.youtube.com/watch?v=WN5B3RrTwRE](https://www.youtube.com/watch?v=WN5B3RrTwRE)
+
+**Manuscript (in french):** [https://theses.hal.science/tel-03517320v1/file/101647_PEREZ_2021_archivage.pdf](https://theses.hal.science/tel-03517320v1/file/101647_PEREZ_2021_archivage.pdf)
 
 ---
 ### 2018 | MSc. in Software Engineering - University of Franche-Comté - UFR-Sciences et Techniques, France
@@ -87,50 +83,83 @@ Rubrique :
 ### 2015 | Associate's Degree (DUT) in Computer Sciences - University of Franche-Comté - IUT Belfort-Montbéliard, France
 
 ---
+(**[Back to the top](https://qperez.github.io/)** :arrow_up: )
 
 # Publications
 You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quentin-perez).
 ## Journal Paper
 
-* Quentin Perez, Christelle Urtado, Sylvain Vauttier. Dataset of open-source software developers labeled by their experience level in the project and their associated software metrics. Data in Brief, 2023, 46, pp.108842.
+* Quentin Perez, Christelle Urtado, Sylvain Vauttier. 
+ Dataset of open-source software developers labeled by their experience level in the project and 
+ their associated software metrics. Data in Brief, 2023, 46, pp.108842. ⟨[10.1016/j.dib.2022.108842](https://dx.doi.org/10.1016/j.dib.2022.108842)⟩ 
+ [[HAL Link](https://imt-mines-ales.hal.science/hal-03177423)]
 
 ## International Conferences
 
 ### Regular Papers
 
 #### A rank publications (CORE)
-* Corentin Latappy, Quentin Perez, Thomas Degueule, Jean-Rémy Falleri ,Christelle Urtado, Sylvain Vauttier, Xavier Blanc, Cédric Teyton. MLinter: Learning Coding Practices from Examples-Dream or Reality? SANER 2023 - 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, March 2023, Macao, China, Online (**CORE rang A**)
+* Corentin Latappy, Quentin Perez, Thomas Degueule, Jean-Rémy Falleri ,Christelle Urtado, Sylvain Vauttier,
+ Xavier Blanc, Cédric Teyton. MLinter: Learning Coding Practices from Examples-Dream or Reality?
+SANER 2023 - 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, March 2023, Macao, 
+China, Online (**CORE rang A**) [[HAL Link](https://hal.science/hal-03951403)]
 
-* Quentin Perez, Pierre-Antoine Jean, Christelle Urtado, Sylvain Vauttier. Bug or not bug? That is the question. ICPC 2021 - 29th IEEE/ACM International Conference on Program Comprehension, May 2021, Online, France. pp.47--58, Online (**CORE rang A**)
+* Quentin Perez, Pierre-Antoine Jean, Christelle Urtado, Sylvain Vauttier. Bug or not bug? That is the question. 
+ ICPC 2021 - 29th IEEE/ACM International Conference on Program Comprehension, May 2021, Online, France. 
+ pp.47--58, Online (**CORE rang A**) [[HAL Link](https://imt-mines-ales.hal.science/hal-03177423)]
 
 #### B rank publications (CORE)
 
-*  Quentin Perez, Christelle Urtado, Sylvain Vauttier. Mining Experienced Developers in Open-source Projects. ENASE 2022 - 17th International Conference on Evaluation of Novel Approaches to Software Engineering, Apr 2022, Online, France. pp.443-452. (CORE rang B)
+*  Quentin Perez, Christelle Urtado, Sylvain Vauttier. Mining Experienced Developers in Open-source Projects. 
+ ENASE 2022 - 17th International Conference on Evaluation of Novel Approaches to Software Engineering, Apr 2022, Online, France. 
+ pp.443-452. (CORE rang B) [[HAL Link](https://imt-mines-ales.hal.science/hal-03654959)]
 
 ### Short Papers
 
 #### B rank publications (CORE)
 
-* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. Towards Profiling Runtime Architecture Code Contributors in Software Projects. ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, Apr 2021, Online, United States. (CORE rang B)
+* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. 
+ Towards Profiling Runtime Architecture Code Contributors in Software Projects. 
+ ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, 
+ Apr 2021, Online, United States. (CORE rang B) [[HAL Link](https://hal.science/hal-02194787)]
 * Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468. (CORE rang B)
 
 ## Book Chapters
 
-* Agustín Olmedo, Gabriela Arévalo, Ignacio Cassol, Quentin Perez, Christelle Urtado, et al.. Pull Requests Integration Process Optimization: An Empirical Study. Hermann Kaindl, Mike Mannion and Leszek A. Maciaszek. Evaluation of Novel Approaches to Software Engineering, 1829, Springer, pp.155-178, 2023, Communications in Computer and Information Science, 978-3-031-36596-6. [Link HAL](https://imt-mines-ales.hal.science/hal-04157804)
+* Agustín Olmedo, Gabriela Arévalo, Ignacio Cassol, Quentin Perez, Christelle Urtado, et al.. 
+ Pull Requests Integration Process Optimization: An Empirical Study. 
+ Hermann Kaindl, Mike Mannion and Leszek A. Maciaszek.
+ Evaluation of Novel Approaches to Software Engineering, 1829, Springer, pp.155-178, 2023,
+ Communications in Computer and Information Science, 978-3-031-36596-6. [[Link HAL](https://imt-mines-ales.hal.science/hal-04157804)]
 
 ## Workshop Papers
 
-* Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. A software engineering point of view on digital twin architecture. ETFA 2022 - IEEE 27th International Conference on Emerging Technologies and Factory Automation, Sep 2022, Stuttgart, Germany. 
+* Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. 
+ A software engineering point of view on digital twin architecture. 
+ ETFA 2022 - IEEE 27th International Conference on Emerging 
+ Technologies and Factory Automation, Sep 2022, Stuttgart, Germany. [[HAL Link](https://imt-mines-ales.hal.science/hal-03832378)]
+* Benoit Combemale, Jean-Marc Jézéquel, Quentin Perez, Didier Vojtisek, Nico Jansen, et al.. 
+ Model-Based DevOps: Foundations and Challenges. 
+ MODELS-C 2023 - ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion, 
+ Oct 2023, Västerås, Sweden. pp.429-433, ⟨[10.1109/MODELS-C59198.2023.00076](https://dx.doi.org/10.1109/MODELS-C59198.2023.00076)⟩ 
+ [[HAL Link](https://inria.hal.science/hal-04425802)]
 
 ## Francophone conferences
 
-* Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. Déploiement dirigé par les modèles de jumeaux numériques dans les environnements intelligents. HUT LaConf 2022 - L'interdisciplinarité au service des environnements intelligents, Nov 2022, Montpellier, France.
+* Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. 
+ Déploiement dirigé par les modèles de jumeaux numériques dans les environnements intelligents. 
+ HUT LaConf 2022 - L'interdisciplinarité au service des environnements intelligents, 
+ Nov 2022, Montpellier, France. . [[HAL Link]()]
 
 ## Posters
 
-* Alireza Asvadi, Gaëlic Bechu, Antoine Beugnard, Caroline G. L. Cao, Christophe Lohr, Quentin Perez, Christelle Urtado et Sylvain Vauttier. Model-driven deployment of Digital Twins for Smart Environments - The HUman at home projecT case study. Journées nationales du GDR GPL 2022, Jun 2022, Vannes, France. , 13, 2022, Actes des journées du GDR GPL 2022.
+* Alireza Asvadi, Gaëlic Bechu, Antoine Beugnard, Caroline G. L. Cao, 
+ Christophe Lohr, Quentin Perez, Christelle Urtado et Sylvain Vauttier. 
+ Model-driven deployment of Digital Twins for Smart Environments - The HUman at home projecT case study. 
+ Journées nationales du GDR GPL 2022, Jun 2022, Vannes, France., 13, 2022, Actes des journées du GDR GPL 2022.
 
-***
+---
+(**[Back to the top](https://qperez.github.io/)** :arrow_up: )
 
 # Teaching
 
@@ -139,29 +168,33 @@ I mainly taught at IMT Mines Alès from 2018 to 2022 but also at the University 
 
 ### Tableau récapitulatif des enseignements dispensés
 
-| Statut    | Année       | Établissement | Public  | Niveau                                      | Matière                        | Volume Horaire  | Nature          | Responsabilités            | Supports | 
-|-----------|-------------|---------------|---------|---------------------------------------------|--------------------------------|-----------------|-----------------|----------------------------|----------|
-| Doctorant | 2018 – 2019 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Algorithmique et POO (Java)    | 13h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2018 – 2019 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2018 – 2019 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Projet GL                      | 16h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2018 – 2019 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Étude Technique                | 10h             | Projet étudiant | Encadrement                |   | 
- | Doctorant | 2018 – 2019 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Mission R&D                    | 20h             | Projet étudiant | Encadrement                |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Programmation Orientée Objet   | 8h              | TP/TD           | Encadrement                |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 6h30            | Cours           | Création de cours          | https://www.slideshare.net/secret/GUfJLao8HZXZHk | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Bonnes pratiques logicielles   | 10h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Projet GL                      | 16h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2019 – 2020 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Langages objets (Java)         | 11h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès | INFRES  | L3 (1ère année ingé par apprentissage info) | Langages objets (Java)         | 11h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 6h30            | Cours           | Création de cours          | https://www.slideshare.net/secret/GUfJLao8HZXZHk | 
- | Doctorant | 2020 – 2021 | IMT Mines Alès |         | M1 (2ème année ingé généraliste spé info)   | Mission R&D                    | 20h             | Projet étudiant | Encadrement                |   | 
- | Doctorant | 2021 – 2022 | IMT Mines Alès |         | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
- | Doctorant | 2021 – 2022 | Univ Montpellier |         | M2                                          | IA pour le GL                  | 6h              | TP/TD           | Création TP et encadrement | https://github.com/qperez/TP-Master-MTP-GL-IA4GL/ | 
- | Post-doc  | 2022 – 2023 | Univ Montpellier |         | M2                                          | IA pour le GL                  | 9h              | TP/TD           | Création TP et encadrement |   | 
- | Post-doc  | 2022 – 2023 | IMT Mines Alès |         | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 9h30            | Cours           | Création de cours          |   | 
+| Year        | Institution       | Niveau                                      | Matière                        | Volume Horaire  | Nature          | Responsabilités            | Supports | 
+|-------------|------------------|---------------------------------------------|--------------------------------|-----------------|-----------------|----------------------------|----------|
+| 2018 – 2019 | IMT Mines Alès   | L3 (1ère année ingé généraliste)            | Algorithmique et POO (Java)    | 13h             | TP/TD           | Encadrement                |   | 
+ | 2018 – 2019 | IMT Mines Alès   | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
+ | 2018 – 2019 | IMT Mines Alès   | M1 (2ème année ingé généraliste spé info)   | Projet GL                      | 16h             | TP/TD           | Encadrement                |   | 
+ | 2018 – 2019 | IMT Mines Alès   | M2 (3ème année ingé généraliste spé info)   | Étude Technique                | 10h             | Projet étudiant | Encadrement                |   | 
+ | 2018 – 2019 | IMT Mines Alès   | M1 (2ème année ingé généraliste spé info)   | Mission R&D                    | 20h             | Projet étudiant | Encadrement                |   | 
+ | 2019 – 2020 | IMT Mines Alès   | M1 (2ème année ingé généraliste spé info)   | Programmation Orientée Objet   | 8h              | TP/TD           | Encadrement                |   | 
+ | 2019 – 2020 | IMT Mines Alès   | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 6h30            | Cours           | Création de cours          | https://www.slideshare.net/secret/GUfJLao8HZXZHk | 
+ | 2019 – 2020 | IMT Mines Alès   | M2 (3ème année ingé généraliste spé info)   | Bonnes pratiques logicielles   | 10h             | TP/TD           | Encadrement                |   | 
+ | 2019 – 2020 | IMT Mines Alès   | M1 (2ème année ingé généraliste spé info)   | Projet GL                      | 16h             | TP/TD           | Encadrement                |   | 
+ | 2019 – 2020 | IMT Mines Alès   | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
+ | 2019 – 2020 | IMT Mines Alès   | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
+ | 2019 – 2020 | IMT Mines Alès   | L3 (1ère année ingé par apprentissage info) | Langages objets (Java)         | 11h             | TP/TD           | Encadrement                |   | 
+ | 2020 – 2021 | IMT Mines Alès   | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
+ | 2020 – 2021 | IMT Mines Alès   | L3 (1ère année ingé par apprentissage info) | Approche objets (UML)          | 15h             | TP/TD           | Encadrement                |   | 
+ | 2020 – 2021 | IMT Mines Alès   | L3 (1ère année ingé par apprentissage info) | Langages objets (Java)         | 11h             | TP/TD           | Encadrement                |   | 
+ | 2020 – 2021 | IMT Mines Alès   | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 6h30            | Cours           | Création de cours          | https://www.slideshare.net/secret/GUfJLao8HZXZHk | 
+ | 2020 – 2021 | IMT Mines Alès   | M1 (2ème année ingé généraliste spé info)   | Mission R&D                    | 20h             | Projet étudiant | Encadrement                |   | 
+ | 2021 – 2022 | IMT Mines Alès   | L3 (1ère année ingé généraliste)            | Base de données relationnelles | 14h             | TP/TD           | Encadrement                |   | 
+ | 2021 – 2022 | Univ Montpellier | M2                                          | IA pour le GL                  | 6h              | TP/TD           | Création TP et encadrement | https://github.com/qperez/TP-Master-MTP-GL-IA4GL/ | 
+ | 2022 – 2023 | Univ Montpellier | M2                                          | IA pour le GL                  | 9h              | TP/TD           | Création TP et encadrement |   | 
+ | 2022 – 2023 | IMT Mines Alès   | M2 (3ème année ingé généraliste spé info)   | Qualité Logicielle             | 9h30            | Cours           | Création de cours          |   | 
+
+---
+(**[Back to the top](https://qperez.github.io/)** :arrow_up: )
+
 
 ## Création de cours et TP
 
