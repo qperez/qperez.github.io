@@ -54,18 +54,18 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 
 **Title: Managing architectural contributions in software projects : Metrics, empirical analysis and machine learning**
 
-**Advisors:** [Christelle Urtado](https://cv.hal.science/christelleurtado) and [Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/)
+**Supervisors:** [Christelle Urtado](https://cv.hal.science/christelleurtado) and [Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/)
 
 **Jury:**
 
-|                    |                  |                             |             |
-|--------------------|------------------|-----------------------------|-------------|
-| Xavier BLANC       | Professor        | LABRI, Univ. of Bordeaux    | Rapporteur  |
-| Anne ETIEN         | Professor        | CRIStAL, Univ. of Lille     | Rapportrice |
-| Antoine BEUGNARD   | Professor        | Lab-STICC, IMT Atlantique   | Président   |
-| Chouki TIBERMACINE | Assoc. Prof. HDR | LIRMM, Univ. of Montpellier | Examiner    |
-| Christelle URTADO  | Assoc. Prof. HDR | EuroMov DHM, IMT Mines Alès | Supervisor  |
-| Sylvain VAUTTIER   | Assoc. Prof. HDR | EuroMov DHM, IMT Mines Alès | Supervisor  |
+|                    |                  |                             |                        |
+|--------------------|------------------|-----------------------------|------------------------|
+| Xavier BLANC       | Professor        | LABRI, Univ. of Bordeaux    | Examiner (rapporteur)  |
+| Anne ETIEN         | Professor        | CRIStAL, Univ. of Lille     | Examiner (rapportrice) |
+| Antoine BEUGNARD   | Professor        | Lab-STICC, IMT Atlantique   | Examiner (president)   |
+| Chouki TIBERMACINE | Assoc. Prof. HDR | LIRMM, Univ. of Montpellier | Examiner               |
+| Christelle URTADO  | Assoc. Prof. HDR | EuroMov DHM, IMT Mines Alès | Supervisor             |
+| Sylvain VAUTTIER   | Assoc. Prof. HDR | EuroMov DHM, IMT Mines Alès | Supervisor             |
 
 **Defense slides (in french):** [https://drive.google.com/file/d/1oBxeE1bw01A86U2IDtWAiRvIaICsX7fJ/view?usp=sharing](https://drive.google.com/file/d/1oBxeE1bw01A86U2IDtWAiRvIaICsX7fJ/view?usp=sharing)
 
