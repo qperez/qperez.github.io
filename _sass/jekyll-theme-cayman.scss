@@ -206,7 +206,7 @@ a {
     display: none;
     text-indent: -9999px;
     background: url('https://raw.githubusercontent.com/qperez/qperez.github.io/master/assets/img/icon-top.png') no-repeat;
-    background-color: #ffffff;
+    background-color: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   }
 
   img {
