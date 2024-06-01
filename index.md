@@ -202,10 +202,10 @@ This module allows for the acquisition of the following knowledge and skills:
 ### Slides and Practical Work Material
 
 #### Lecture Slides
-* Lecture 1 [in french]() or [in english](): Reminders of the concepts of physics / GHGs / electricity mix / energy for ICTs
-* Lecture 2 - 3 [in french only](): 
-* Lecture 4 [in french only]():
-* Lecture 5 [in french only]():
+* Lecture 1 [in french](https://github.com/qperez/qperez.github.io/blob/master/courses/green_computing/lectures/GreenComputing%20-%20CM1.pdf) or [in english](https://github.com/qperez/qperez.github.io/blob/master/courses/green_computing/lectures/GreenComputing%20-%20CM1%20-%20EN.pdf): Reminders of the concepts of physics / GHGs / electricity mix / energy for ICTs
+* Lecture 2 - 3 [in french only](https://github.com/qperez/qperez.github.io/blob/master/courses/green_computing/lectures/GreenComputing%20-%20CM2%20-%20CM3.pdf): 
+* Lecture 4 [in french only](https://github.com/qperez/qperez.github.io/blob/master/courses/green_computing/lectures/GreenComputing%20-%20CM4.pdf):
+* Lecture 5 [in french only](https://github.com/qperez/qperez.github.io/blob/master/courses/green_computing/lectures/GreenComputing%20-%20CM5.pdf):
 
 #### Practical Work
 * PW 1: PC assembly and Debian 12 Linux OS installation
