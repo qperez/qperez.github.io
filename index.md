@@ -240,45 +240,31 @@ To see the complete list of past teaching courses, please follow this [link](htt
 
 ## Dec. 2021 - Dec 2022 | Postdoctoral Researcher at IMT Mines Alès (France) on TwinCoBot project, granted by Carnot-Mines Télécom Institut.
 
-Projet d'essaimage financé par l'Institut Carnot Télécom sur les jumeaux numériques (Digital Twins) dans les contextes d'environnements connectés domotiques et l'industrie 4.0. Réalisation d'un méta-modèle générique à ces 2 cas d'usage ainsi que d'un démonstrateur de jumeau numérique d'appartement connecté en lien avec le projet HUman aT project (HUT). 
+Spin-off project funded by the Carnot Télécom Institut on digital twins in the context of home automation connected environments and industry 4.0. Development of a generic meta-model for these 2 use cases as well as a digital twin demonstrator for a connected flat in conjunction with the HUman aT project (HUT).
 
 ## Oct. 2018 - Dec. 2021 | Pḧ.D student in Software Engineering at IMT Mines Alès, France
 
-## Sept. 2018 - Oct. 2018 | Ingénieur développement logiciel - groupe Flowbird 
+## Sept. 2018 - Oct. 2018 | Software engineer- Flowbird group
 
-Mission d'intérim faisant suite à mon alternance au poste d'ingénieur informatique sur le projet web GIS
-* Traduction de l'interface web à l'aide de jQuery i18n
-* Création de pollers HTTP
-* Refactoring architectural et création de modules par fonctionnalités avec Maven
+Temporary mission following my work-study placement as an IT engineer on the GIS web project
+* Translation of the web interface using jQuery i18n
+* Creation of HTTP pollers
+* Architectural refactoring and creation of modules by functionality using MavenUT).
 
-##  Sept. 2016 - Sept. 2018 | Alternant Ingénieur développement logiciel - groupe Flowbird
+##  Sept. 2016 - Sept. 2018 | Work-study Software Development Engineer -  Flowbird group
 
-Développement d'un système d'information géographique (SIG) web from Scratch avec le framework Spring et base de données PostGIS
+Development of a web-based geographic information system (GIS) from scratch using the Spring framework and PostGIS database
 * Front-end : Jquery, Google Maps API JS, HTML5/CSS3, JSON, Ajax
-* Back-end : Java et framework Spring
-* Base de données : PostGIS
-* Ontologie des données : Schema.org et JSON-LD
-* Livraison sous forme d'images Docker sur plate-forme Amazon Web Service Elastic Container Registery (AWS ECR)
-* Tests et qualité logicielle :
-  - Construction : Maven
-  - Tests unitaires : JUnit
-  - Tests fonctionnels : JUnit/ Cucumber
-  - Intégration continue : Jenkins
-  - Création d'environnements de test Dockerisés
-  - Mécanismes d'healthchecks Docker et applicatifs (DB+Tomcat)
-
-Missions annexes :
-  - Maintenance applicative sur serveur cartographique Dataiku
-  - Rédaction de documentations fonctionnelles à destinations des managers et ingénieurs d'affaires
-
-# Qualification
-
-Qualification aux fonctions de Maitre de Conférence, section 27 obtenue en 2022 : [https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2022/qualifies_MCF_2022.pdf](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2022/qualifies_MCF_2022.pdf)
+* Back-end : Java and Spring framework
+* Database : PostGIS
+* Data ontology: Schema.org and JSON-LD
+* Delivery in the form of Docker images on the Amazon Web Service Elastic Container Registery (AWS ECR) platform
+* Software testing and quality: Maven, JUnit, Jenkins
 
 # Certification
 
-## Testeur logiciel niveau fondation de l'International Software Testing Qualifications Board (ISTQB)
-ID de certification : [57998](http://scr.istqb.org/?name=&number=57998)
+## Foundation-level software tester from the International Software Testing Qualifications Board (ISTQB)
+**Certification ID: [57998](http://scr.istqb.org/?name=&number=57998)**
 
 ***
 
