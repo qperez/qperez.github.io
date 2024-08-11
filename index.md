@@ -210,8 +210,8 @@ This module allows for the acquisition of the following knowledge and skills:
 #### Practical Work
 * PW 1: PC assembly and Debian 12 Linux OS installation
 * PW 2/3/4/5: Creation of a software power-meter and CO2 estimator. Use of the tool to compare algorithms and highlight processor optimization mechanisms (turbo-boost).
-* PW 6/7: 
-* PW 8:
+* PW 6/7: Use of the Firefox profiler and Selenium to estimate energy consumption during browsing.
+* PW 8: Setting up and using the Scaphandre powermeter
 
 ## Past teaching
 I mainly taught at IMT Mines Alès from 2018 to 2022 but also at the University of Montpellier in 2021 and 2022.
@@ -234,13 +234,15 @@ To see the complete list of past teaching courses, please follow this [link](htt
 ### 2019-2021 | Représentant des doctorants au comité de l'unité de recherche [Euromov DHM](https://dhm.euromov.eu) (2019-2021)
 ### 2019-2020 | Trésorier de l'association des [Thésards de l'École des Mines d'Alès](https://www.linkedin.com/in/athema-mines-al%C3%A8s-13b2a113b/) (ATHEMA) (2019-2020)
 
-# Expérience professionnelle
+# Work Experience
 
-## Dec. 2021 - Dec 2022 | Chercheur post-doctorant à IMT Mines Alès, projet TwinCoBot financé par l'institut Carnot Télécom.
+## Jan. 2021 - Aug. 2022 | Postdoctoral Researcher at IRISA lab (France) in the DiverSE Team
+
+## Dec. 2021 - Dec 2022 | Postdoctoral Researcher at IMT Mines Alès (France) on TwinCoBot project, granted by Carnot-Mines Télécom Institut.
 
 Projet d'essaimage financé par l'Institut Carnot Télécom sur les jumeaux numériques (Digital Twins) dans les contextes d'environnements connectés domotiques et l'industrie 4.0. Réalisation d'un méta-modèle générique à ces 2 cas d'usage ainsi que d'un démonstrateur de jumeau numérique d'appartement connecté en lien avec le projet HUman aT project (HUT). 
 
-## Oct. 2018 - Dec. 2021 | Doctorant en Informatique à IMT Mines Alès
+## Oct. 2018 - Dec. 2021 | Pḧ.D student in Software Engineering at IMT Mines Alès, France
 
 ## Sept. 2018 - Oct. 2018 | Ingénieur développement logiciel - groupe Flowbird 
 
