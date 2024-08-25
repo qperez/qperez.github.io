@@ -9,7 +9,9 @@ layout: default
 # About me
 
 Hello :wave: , I'm associate professor of Software Engineering at [INSA Rennes](https://www.insa-rennes.fr/index.html). 
-I'm doing research in the [DiverSE Team](https://www.diverse-team.fr/) in the [IRISA/Inria](https://www.irisa.fr/) lab at Rennes in France. 
+I'm doing research in the [DiverSE Team](https://www.diverse-team.fr/) in the [IRISA/Inria](https://www.irisa.fr/) lab at Rennes in France.
+I'm also in charge of corporate relations for the Computer Science department at INSA Rennes (responsable des relations entreprises pour le département Informatique de l'INSA Rennes).
+
 
 My **research interests** are the following:
 - **Software Energy Consumption and Green IT :seedling:**
@@ -24,6 +26,7 @@ software world. My research consists of finding solutions to reduce the consumpt
 developers with a perception and evaluation of the software energy consumption in the DevOps loop. 
 To achieve this, I employed a mining software engineering approach to collect and evaluate tools used in the DevOps 
 world at a large scale. 
+
 
 I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervision of [Christelle Urtado](https://cv.hal.science/christelleurtado) and
 [Sylvain Vauttier](https://sylvainvauttier.wp.imt.fr/). 
@@ -47,7 +50,7 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 * [Students](#students)
 <!-- TOC -->
 
-
+***
 ***
 
 # Education
@@ -84,11 +87,11 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 ---
 ### 2015 | Associate's Degree (DUT) in Computer Sciences - University of Franche-Comté - IUT Belfort-Montbéliard, France
 
----
-(**[Back to the top](https://qperez.github.io/)** :arrow_up: )
+***
+***
 
 # Publications
-You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quentin-perez).
+You can also find my publications on my [HAL Curriculum Vitae](https://cv.archives-ouvertes.fr/quentin-perez).
 ## Journal Paper
 
 * Quentin Perez, Christelle Urtado, Sylvain Vauttier. 
@@ -159,10 +162,8 @@ China, Online (**CORE rang A**) [[HAL Link](https://hal.science/hal-03951403)]
  Christophe Lohr, Quentin Perez, Christelle Urtado et Sylvain Vauttier. 
  Model-driven deployment of Digital Twins for Smart Environments - The HUman at home projecT case study. 
  Journées nationales du GDR GPL 2022, Jun 2022, Vannes, France., 13, 2022, Actes des journées du GDR GPL 2022.
-
----
-(**[Back to the top](https://qperez.github.io/)** :arrow_up: )
-
+***
+***
 # Teaching
 
 ## Present teaching
@@ -216,9 +217,8 @@ This module allows for the acquisition of the following knowledge and skills:
 ## Past teaching
 I mainly taught at IMT Mines Alès from 2018 to 2022 but also at the University of Montpellier in 2021 and 2022.
 To see the complete list of past teaching courses, please follow this [link](https://github.com/qperez/qperez.github.io/blob/master/past_teaching_list.md).
-
----
-
+***
+***
 # Students
 
 ## Current PhD student 
@@ -236,13 +236,15 @@ To see the complete list of past teaching courses, please follow this [link](htt
 
 # Work Experience
 
+## Since Sep. 2023 | Associate Professor of Software Engineering at INSA Rennes - Research in the [DiverSE Team](https://www.diverse-team.fr/), IRISA, Inria, Univ Rennes, CNRS - France
+
 ## Jan. 2021 - Aug. 2022 | Postdoctoral Researcher at IRISA lab (France) in the DiverSE Team
 
-## Dec. 2021 - Dec 2022 | Postdoctoral Researcher at IMT Mines Alès (France) on TwinCoBot project, granted by Carnot-Mines Télécom Institut.
+## Dec. 2021 - Dec. 2022 | Postdoctoral Researcher at IMT Mines Alès (France) on TwinCoBot project, granted by Carnot-Mines Télécom Institut.
 
 Spin-off project funded by the Carnot Télécom Institut on digital twins in the context of home automation connected environments and industry 4.0. Development of a generic meta-model for these 2 use cases as well as a digital twin demonstrator for a connected flat in conjunction with the HUman aT project (HUT).
 
-## Oct. 2018 - Dec. 2021 | Pḧ.D student in Software Engineering at IMT Mines Alès, France
+## Oct. 2018 - Dec. 2021 | Ph.D. student in Software Engineering at IMT Mines Alès, France
 
 ## Sept. 2018 - Oct. 2018 | Software engineer- Flowbird group
 
@@ -266,6 +268,7 @@ Development of a web-based geographic information system (GIS) from scratch usin
 ## Foundation-level software tester from the International Software Testing Qualifications Board (ISTQB)
 **Certification ID: [57998](http://scr.istqb.org/?name=&number=57998)**
 
+***
 ***
 
 # Comité de programme 
