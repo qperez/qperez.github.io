@@ -38,18 +38,6 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 - [Github](https://github.com/qperez) :technologist:
 - [Twitter / X](https://twitter.com/qperez19) :bird:
 
-# Table of contents:
-<!-- TOC -->
-* [About Me](#about-me)
-* [Publications](#publications)
-* [Education](#education)
-* [Teaching](#teaching)
-* [Services](#services)
-* [Students](#students)
-<!-- TOC -->
-
-
-***
 
 # Education
 
@@ -85,8 +73,6 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 ---
 ### 2015 | Associate's Degree (DUT) in Computer Sciences - University of Franche-Comté - IUT Belfort-Montbéliard, France
 
----
-(**[Back to the top](https://qperez.github.io/)** :arrow_up: )
 
 # Publications
 You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quentin-perez).
@@ -161,8 +147,6 @@ China, Online (**CORE rang A**) [[HAL Link](https://hal.science/hal-03951403)]
  Model-driven deployment of Digital Twins for Smart Environments - The HUman at home projecT case study. 
  Journées nationales du GDR GPL 2022, Jun 2022, Vannes, France., 13, 2022, Actes des journées du GDR GPL 2022.
 
----
-(**[Back to the top](https://qperez.github.io/)** :arrow_up: )
 
 # Teaching
 
@@ -217,8 +201,6 @@ This module allows for the acquisition of the following knowledge and skills:
 ## Past teaching
 I mainly taught at IMT Mines Alès from 2018 to 2022 but also at the University of Montpellier in 2021 and 2022.
 To see the complete list of past teaching courses, please follow this [link](https://github.com/qperez/qperez.github.io/blob/master/past_teaching_list.md).
-
----
 
 # Students
 
