@@ -41,7 +41,7 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 
 # Education
 
-### 2021 | Ph.D. in Software Engineering - EuroMov Digital Health In Motion, IMT Mines Alès, France
+#### 2021 | Ph.D. in Software Engineering - EuroMov Digital Health In Motion, IMT Mines Alès, France
 
 **Title: Managing architectural contributions in software projects : Metrics, empirical analysis and machine learning**
 
@@ -65,14 +65,17 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 **Manuscript (in french):** [https://theses.hal.science/tel-03517320v1/file/101647_PEREZ_2021_archivage.pdf](https://theses.hal.science/tel-03517320v1/file/101647_PEREZ_2021_archivage.pdf)
 
 ---
-### 2018 | MSc. in Software Engineering - University of Franche-Comté - UFR-Sciences et Techniques, France
+#### 2018 | MSc. in Software Engineering - University of Franche-Comté - UFR-Sciences et Techniques, France
 
 ---
-### 2016 | Bachelor in Software Engineering - University of Franche-Comté - UFR-Sciences et Techniques, France
+#### 2016 | Bachelor in Software Engineering - University of Franche-Comté - UFR-Sciences et Techniques, France
 
 ---
-### 2015 | Associate's Degree (DUT) in Computer Sciences - University of Franche-Comté - IUT Belfort-Montbéliard, France
+#### 2015 | Associate's Degree (DUT) in Computer Sciences - University of Franche-Comté - IUT Belfort-Montbéliard, France
 
+----
+#### Certification: Foundation-level software tester from the International Software Testing Qualifications Board (ISTQB)
+**Certification ID: [57998](http://scr.istqb.org/?name=&number=57998)**
 
 # Publications
 You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quentin-perez).
@@ -91,17 +94,27 @@ You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quent
 * Corentin Latappy, Quentin Perez, Thomas Degueule, Jean-Rémy Falleri ,Christelle Urtado, Sylvain Vauttier,
  Xavier Blanc, Cédric Teyton. MLinter: Learning Coding Practices from Examples-Dream or Reality?
 SANER 2023 - 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, March 2023, Macao, 
-China, Online (**CORE rang A**) [[HAL Link](https://hal.science/hal-03951403)]
+China, Online (**CORE A rank**) [[HAL Link](https://hal.science/hal-03951403)]
 
 * Quentin Perez, Pierre-Antoine Jean, Christelle Urtado, Sylvain Vauttier. Bug or not bug? That is the question. 
  ICPC 2021 - 29th IEEE/ACM International Conference on Program Comprehension, May 2021, Online, France. 
- pp.47--58, Online (**CORE rang A**) [[HAL Link](https://imt-mines-ales.hal.science/hal-03177423)]
+ pp.47--58, Online (**CORE A rank**) [[HAL Link](https://imt-mines-ales.hal.science/hal-03177423)]
 
 #### B rank publications (CORE)
 
-*  Quentin Perez, Christelle Urtado, Sylvain Vauttier. Mining Experienced Developers in Open-source Projects. 
+* Xhevahire Tërnava, Romain Lefeuvre, Quentin Perez, Djamel Eddine Khelladi, Mathieu Acher, et al.. 
+On the Effect of Feature Reduction on Energy Consumption: An Exploratory Study. SPLC 2025 - 
+29th ACM International Systems and Software Product Line Conference, Sep 2025, A Coruña, Spain. pp.1-11.  (CORE B rank) [[HAL Link](https://hal.science/hal-05166140)]
+* Quentin Perez, Christelle Urtado, Sylvain Vauttier. Mining Experienced Developers in Open-source Projects. 
  ENASE 2022 - 17th International Conference on Evaluation of Novel Approaches to Software Engineering, Apr 2022, Online, France. 
- pp.443-452. (CORE rang B) [[HAL Link](https://imt-mines-ales.hal.science/hal-03654959)]
+ pp.443-452. (CORE B rank) [[HAL Link](https://imt-mines-ales.hal.science/hal-03654959)]
+
+#### Unranked conferences
+
+* Sérgio Queiroz de Medeiros, Romain Lefeuvre, Benoit Combemale, Quentin Perez. 
+Evaluating the Energy Profile of Tasks Managed by Build Automation Tools in Continuous Integration Workflows: 
+The Case of Apache Maven and Gradle. ICT4S 2025 - International Conference on Information and Communications 
+Technology for Sustainability, Jun 2025, Dublin, Ireland. pp.1-11 [[HAL Link](https://hal.science/hal-05090865/)]
 
 ### Short Papers
 
@@ -110,8 +123,10 @@ China, Online (**CORE rang A**) [[HAL Link](https://hal.science/hal-03951403)]
 * Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. 
  Towards Profiling Runtime Architecture Code Contributors in Software Projects. 
  ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, 
- Apr 2021, Online, United States. (CORE rang B) [[HAL Link](https://hal.science/hal-02194787)]
-* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468. (CORE rang B)
+ Apr 2021, Online, United States. (CORE B rank) [[HAL Link](https://hal.science/hal-02194787)]
+* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. 
+An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. 
+SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468. (CORE B rank)
 
 ## Book Chapters
 
@@ -130,8 +145,7 @@ China, Online (**CORE rang A**) [[HAL Link](https://hal.science/hal-03951403)]
 * Benoit Combemale, Jean-Marc Jézéquel, Quentin Perez, Didier Vojtisek, Nico Jansen, et al.. 
  Model-Based DevOps: Foundations and Challenges. 
  MODELS-C 2023 - ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion, 
- Oct 2023, Västerås, Sweden. pp.429-433, ⟨[10.1109/MODELS-C59198.2023.00076](https://dx.doi.org/10.1109/MODELS-C59198.2023.00076)⟩ 
- [[HAL Link](https://inria.hal.science/hal-04425802)]
+ Oct 2023, Västerås, Sweden. pp.429-433 [[HAL Link](https://inria.hal.science/hal-04425802)]
 
 ## Francophone conferences
 
@@ -146,7 +160,6 @@ China, Online (**CORE rang A**) [[HAL Link](https://hal.science/hal-03951403)]
  Christophe Lohr, Quentin Perez, Christelle Urtado et Sylvain Vauttier. 
  Model-driven deployment of Digital Twins for Smart Environments - The HUman at home projecT case study. 
  Journées nationales du GDR GPL 2022, Jun 2022, Vannes, France., 13, 2022, Actes des journées du GDR GPL 2022.
-
 
 # Teaching
 
@@ -205,19 +218,27 @@ To see the complete list of past teaching courses, please follow this [link](htt
 # Students
 
 ## Current PhD students
-* [Romain Lefeuvre](https://research.romainlefeuvre.com/) "Smart DevOps" , since September, 2023. Directors: [Benoit Combemale](https://people.irisa.fr/Benoit.Combemale) and [Olivier Barais](https://olivier.barais.fr). Co-supervisor: [Jessie Galasso-Carbonnel](https://jgalasso.github.io/) and Quentin Perez.
+* [Romain Lefeuvre](https://research.romainlefeuvre.com/) "Smart DevOps" , since September, 2023. Directors: [Benoit Combemale](https://people.irisa.fr/Benoit.Combemale) and [Olivier Barais](https://olivier.barais.fr). Co-supervisor: [Jessie Galasso-Carbonnel](https://jgalasso.github.io/).
+* [Maïwenn Le Goasteller](https://www.linkedin.com/in/maiwenn-le-goasteller), "Augmenting architectural decision-making: A predictive approach for identifying Pareto-optimal configurations in cloud-native environments considering energy-performance constraints", since October 2025. Co-supervisor: [Aymeric Blot](https://perso.eleves.ens-rennes.fr/people/aymeric.blot/), Director: [Olivier Barais](https://olivier.barais.fr/)
+* [Lina Bilal](https://www.linkedin.com/in/lina-bilal/), "Model-based DevOps: from theory to practice", since October 2025. Directors: [Benoit Combemale](https://people.irisa.fr/Benoit.Combemale) and [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/jmjFR.html)
+
 
 ## Interns
-* [Maïwenn Le Goasteller](https://www.linkedin.com/in/maiwenn-le-goasteller), "Domain Specific Language for workflow reproducibility", since March 2025 (for 6 months internship). Co-supervisors: [Romain Lefeuvre](https://research.romainlefeuvre.com/), [Jessie Galasso-Carbonnel](https://jgalasso.github.io/) and [Benoit Combemale](https://people.irisa.fr/Benoit.Combemale/)
+* [Maïwenn Le Goasteller](https://www.linkedin.com/in/maiwenn-le-goasteller), "Domain Specific Language for workflow reproducibility", March 2025 - August 2025. Co-supervisors: [Romain Lefeuvre](https://research.romainlefeuvre.com/), [Jessie Galasso-Carbonnel](https://jgalasso.github.io/) and [Benoit Combemale](https://people.irisa.fr/Benoit.Combemale/)
 * [Matis Codjia](https://www.linkedin.com/in/matis-codjia-104942298), "Relation between web tracking and energy consumption in browsers", May 2024 - August 2024. Co-supervisors: [Johann Bourcier](https://sites.google.com/site/johannbourcier/) and [Sterenn Roux](https://www.sterennroux.fr).
 
 # Services
 
-## Conference Chair
+### Conference Chair
 * [ICT4S 2023](https://conf.researchr.org/committee/ict4s-2023/ict4s-2023-organizing-committee) - Virtualization Chair
-* [MODEL 2025](https://conf.researchr.org/committee/models-2025/models-2025-artifact-evaluation-chairs) - Artifact Evaluation Chair
+* [MODELS 2025](https://conf.researchr.org/committee/models-2025/models-2025-artifact-evaluation-chairs) - Artifact Evaluation Chair
+* [STAF 2026](https://conf.researchr.org/committee/staf-2026/staf-2026-organizing-committee) - Local Organization Chair
 
-## Reviewer
+### Program Committee 
+* [MODELS 2024](conf.researchr.org/committee/models-2024/models-2024-artifact-evaluation-committee) - Artifact Evaluation Committee Member
+* [ICT4S 2026](https://conf.researchr.org/committee/ict4s-2026/ict4s-2026-papers-program-chairs) - Program Commitee Member 
+
+### Reviewer
 * ICSE: 2025
 * Requirement Engineering: 2025
 * MODELS: 2024
@@ -229,25 +250,24 @@ To see the complete list of past teaching courses, please follow this [link](htt
 * 2019-2021 | Representative of PhD Students on the Committee of the Research Unit [Euromov DHM](https://dhm.euromov.eu)
 * 2019-2020 | Treasurer of the Association of PhD Students at the [Association des Thésards de l'École des Mines d'Alès](https://www.linkedin.com/in/athema-mines-al%C3%A8s-13b2a113b/) (ATHEMA) (2019-2020)
 
-
 # Work Experience
 
-## Jan. 2021 - Aug. 2022 | Postdoctoral Researcher at IRISA lab (France) in the DiverSE Team
+### Jan. 2021 - Aug. 2022 | Postdoctoral Researcher at IRISA lab (France) in the DiverSE Team
 
-## Dec. 2021 - Dec 2022 | Postdoctoral Researcher at IMT Mines Alès (France) on TwinCoBot project, granted by Carnot-Mines Télécom Institut.
+### Dec. 2021 - Dec 2022 | Postdoctoral Researcher at IMT Mines Alès (France) on TwinCoBot project, granted by Carnot-Mines Télécom Institut.
 
 Spin-off project funded by the Carnot Télécom Institut on digital twins in the context of home automation connected environments and industry 4.0. Development of a generic meta-model for these 2 use cases as well as a digital twin demonstrator for a connected flat in conjunction with the HUman aT project (HUT).
 
-## Oct. 2018 - Dec. 2021 | Pḧ.D student in Software Engineering at IMT Mines Alès, France
+### Oct. 2018 - Dec. 2021 | Pḧ.D student in Software Engineering at IMT Mines Alès, France
 
-## Sept. 2018 - Oct. 2018 | Software engineer- Flowbird group
+### Sept. 2018 - Oct. 2018 | Software engineer- Flowbird group
 
 Temporary mission following my work-study placement as an IT engineer on the GIS web project
 * Translation of the web interface using jQuery i18n
 * Creation of HTTP pollers
 * Architectural refactoring and creation of modules by functionality using MavenUT).
 
-##  Sept. 2016 - Sept. 2018 | Work-study Software Development Engineer -  Flowbird group
+###  Sept. 2016 - Sept. 2018 | Work-study Software Development Engineer -  Flowbird group
 
 Development of a web-based geographic information system (GIS) from scratch using the Spring framework and PostGIS database
 * Front-end : Jquery, Google Maps API JS, HTML5/CSS3, JSON, Ajax
@@ -257,9 +277,6 @@ Development of a web-based geographic information system (GIS) from scratch usin
 * Delivery in the form of Docker images on the Amazon Web Service Elastic Container Registery (AWS ECR) platform
 * Software testing and quality: Maven, JUnit, Jenkins
 
-# Certification
-
-## Foundation-level software tester from the International Software Testing Qualifications Board (ISTQB)
-**Certification ID: [57998](http://scr.istqb.org/?name=&number=57998)**
+# Job Offers
 
 ***
