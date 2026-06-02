@@ -258,7 +258,7 @@ To see the complete list of past teaching courses, please follow this [link](htt
 
 Spin-off project funded by the Carnot Télécom Institut on digital twins in the context of home automation connected environments and industry 4.0. Development of a generic meta-model for these 2 use cases as well as a digital twin demonstrator for a connected flat in conjunction with the HUman aT project (HUT).
 
-### Oct. 2018 - Dec. 2021 | Pḧ.D student in Software Engineering at IMT Mines Alès, France
+### Oct. 2018 - Dec. 2021 | Ph.D student in Software Engineering at IMT Mines Alès, France
 
 ### Sept. 2018 - Oct. 2018 | Software engineer- Flowbird group
 
@@ -279,4 +279,6 @@ Development of a web-based geographic information system (GIS) from scratch usin
 
 # Job Offers
 
+# Projects 
+### 203-2006 MBDO: Model-Based DevOps (ANR/DFG MBDO). 
 ***
