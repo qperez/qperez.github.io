@@ -79,87 +79,14 @@ I obtained my Ph.D. in 2021 from the IMT Mines Alès (France) under the supervis
 
 # Publications
 You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quentin-perez).
-## Journal Paper
+You can also find my publications on [HAL](https://cv.archives-ouvertes.fr/quentin-perez).
 
-* Quentin Perez, Christelle Urtado, Sylvain Vauttier. 
- Dataset of open-source software developers labeled by their experience level in the project and 
- their associated software metrics. Data in Brief, 2023, 46, pp.108842. ⟨[10.1016/j.dib.2022.108842](https://dx.doi.org/10.1016/j.dib.2022.108842)⟩ 
- [[HAL Link](https://imt-mines-ales.hal.science/hal-03177423)]
-
-## International Conferences
-
-### Regular Papers
-
-#### A rank publications (CORE)
-* Corentin Latappy, Quentin Perez, Thomas Degueule, Jean-Rémy Falleri ,Christelle Urtado, Sylvain Vauttier,
- Xavier Blanc, Cédric Teyton. MLinter: Learning Coding Practices from Examples-Dream or Reality?
-SANER 2023 - 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, March 2023, Macao, 
-China, Online (**CORE A rank**) [[HAL Link](https://hal.science/hal-03951403)]
-
-* Quentin Perez, Pierre-Antoine Jean, Christelle Urtado, Sylvain Vauttier. Bug or not bug? That is the question. 
- ICPC 2021 - 29th IEEE/ACM International Conference on Program Comprehension, May 2021, Online, France. 
- pp.47--58, Online (**CORE A rank**) [[HAL Link](https://imt-mines-ales.hal.science/hal-03177423)]
-
-#### B rank publications (CORE)
-
-* Xhevahire Tërnava, Romain Lefeuvre, Quentin Perez, Djamel Eddine Khelladi, Mathieu Acher, et al.. 
-On the Effect of Feature Reduction on Energy Consumption: An Exploratory Study. SPLC 2025 - 
-29th ACM International Systems and Software Product Line Conference, Sep 2025, A Coruña, Spain. pp.1-11.  (CORE B rank) [[HAL Link](https://hal.science/hal-05166140)]
-* Quentin Perez, Christelle Urtado, Sylvain Vauttier. Mining Experienced Developers in Open-source Projects. 
- ENASE 2022 - 17th International Conference on Evaluation of Novel Approaches to Software Engineering, Apr 2022, Online, France. 
- pp.443-452. (CORE B rank) [[HAL Link](https://imt-mines-ales.hal.science/hal-03654959)]
-
-#### Unranked conferences
-
-* Sérgio Queiroz de Medeiros, Romain Lefeuvre, Benoit Combemale, Quentin Perez. 
-Evaluating the Energy Profile of Tasks Managed by Build Automation Tools in Continuous Integration Workflows: 
-The Case of Apache Maven and Gradle. ICT4S 2025 - International Conference on Information and Communications 
-Technology for Sustainability, Jun 2025, Dublin, Ireland. pp.1-11 [[HAL Link](https://hal.science/hal-05090865/)]
-
-### Short Papers
-
-#### B rank publications (CORE)
-
-* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. 
- Towards Profiling Runtime Architecture Code Contributors in Software Projects. 
- ENASE 2021 - 16th International conference on Evaluation of Novel Approaches to Software Engineering, 
- Apr 2021, Online, United States. (CORE B rank) [[HAL Link](https://hal.science/hal-02194787)]
-* Quentin Perez, Alexandre Le Borgne, Christelle Urtado, Sylvain Vauttier. 
-An Empirical Study about Software Architecture Configuration Practices with the Java Spring Framework. 
-SEKE: Software Engineering and Knowledge Engineering, Jul 2019, Lisbonne, Portugal. pp.465-468. (CORE B rank)
-
-## Book Chapters
-
-* Agustín Olmedo, Gabriela Arévalo, Ignacio Cassol, Quentin Perez, Christelle Urtado, et al.. 
- Pull Requests Integration Process Optimization: An Empirical Study. 
- Hermann Kaindl, Mike Mannion and Leszek A. Maciaszek.
- Evaluation of Novel Approaches to Software Engineering, 1829, Springer, pp.155-178, 2023,
- Communications in Computer and Information Science, 978-3-031-36596-6. [[Link HAL](https://imt-mines-ales.hal.science/hal-04157804)]
-
-## Workshop Papers
-
-* Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. 
- A software engineering point of view on digital twin architecture. 
- ETFA 2022 - IEEE 27th International Conference on Emerging 
- Technologies and Factory Automation, Sep 2022, Stuttgart, Germany. [[HAL Link](https://imt-mines-ales.hal.science/hal-03832378)]
-* Benoit Combemale, Jean-Marc Jézéquel, Quentin Perez, Didier Vojtisek, Nico Jansen, et al.. 
- Model-Based DevOps: Foundations and Challenges. 
- MODELS-C 2023 - ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion, 
- Oct 2023, Västerås, Sweden. pp.429-433 [[HAL Link](https://inria.hal.science/hal-04425802)]
-
-## Francophone conferences
-
-* Gaëlic Bechu, Antoine Beugnard, Caroline Gl Cao, Quentin Perez, Christelle Urtado, Sylvain Vauttier. 
- Déploiement dirigé par les modèles de jumeaux numériques dans les environnements intelligents. 
- HUT LaConf 2022 - L'interdisciplinarité au service des environnements intelligents, 
- Nov 2022, Montpellier, France. . [[HAL Link]()]
-
-## Posters
-
-* Alireza Asvadi, Gaëlic Bechu, Antoine Beugnard, Caroline G. L. Cao, 
- Christophe Lohr, Quentin Perez, Christelle Urtado et Sylvain Vauttier. 
- Model-driven deployment of Digital Twins for Smart Environments - The HUman at home projecT case study. 
- Journées nationales du GDR GPL 2022, Jun 2022, Vannes, France., 13, 2022, Actes des journées du GDR GPL 2022.
+<iframe src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=quentin%20perez&labos_exp=diverse;insa;imt&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais;Francais&tri_exp=annee_publi&ordre_aff=TA&Fen=Aff&css=//qperez.github.io/assets/css/publi_hal.css" 
+        width="100%" 
+        height="800" 
+        frameborder="0"
+        style="border:none;">
+</iframe>
 
 # Teaching
 
