@@ -1,0 +1,49 @@
+# Quentin Perez
+
+> Personal academic website of Quentin Perez, Associate Professor of Software Engineering at INSA Rennes (France), doing research in the Khora Team (IRISA, Inria, Univ Rennes, CNRS). Research interests: software energy consumption and Green IT, empirical software engineering, software metrics and quality, AI for software quality, digital twins. Current focus: energy consumption of the software supply chain (CI/CD and build managers) in the DevOps loop.
+
+The site is a single main page (English) with sections: About me, Contact, Education, Publications, Teaching, Students, Services, Work Experience, Projects. Quentin Perez obtained a Ph.D. in Software Engineering in 2021 from IMT Mines Alès (supervisors: Christelle Urtado and Sylvain Vauttier).
+
+## About Quentin Perez
+
+Quentin Perez is an Associate Professor of Software Engineering at INSA Rennes (France) and a member of the Khora Team at the IRISA/Inria laboratory in Rennes. He holds a Ph.D. in Software Engineering (2021, IMT Mines Alès) and an MSc and a Bachelor in Software Engineering from the University of Franche-Comté, after a DUT in Computer Science (IUT Belfort-Montbéliard). He is also ISTQB Foundation-level certified.
+
+Career: work-study software development engineer at Flowbird group (2016-2018, web GIS with Spring, PostGIS, Docker/AWS), Ph.D. student at IMT Mines Alès (2018-2021), postdoctoral researcher in the DiverSE team at IRISA (2021-2022) and on the TwinCoBot digital-twin project at IMT Mines Alès (2021-2022), then Associate Professor at INSA Rennes. He teaches software engineering (object-oriented design, web, software projects) and the Green Computing module at INSA Rennes, previously at IMT Mines Alès and the University of Montpellier. He supervises PhD students (Romain Lefeuvre on "Smart DevOps", Maïwenn Le Goasteller on energy-performance-aware cloud-native architecture decisions, Lina Bilal on model-based DevOps) and interns. He serves the community as conference chair (ICT4S 2023, MODELS 2025 artifact evaluation, STAF 2026 local organization), program committee member and reviewer. He participates in the ANR/DFG MBDO (Model-Based DevOps) project.
+
+## Research
+
+Research interests: software energy consumption and Green IT, empirical software engineering, software metrics and quality, AI for software quality, and digital twins.
+
+Current work studies the energy consumption of the software supply chain (CI/CD pipelines and build managers) used in the DevOps loop. These systems are interesting because of their massive, automatic and frequent use, and because their high configurability makes them a special case among software tools. The goal is to find ways to reduce the consumption of DevOps tools and to give developers a perception and evaluation of software energy consumption in the DevOps loop. The approach relies on mining software repositories to collect and evaluate DevOps tools at large scale.
+
+## PhD thesis (2021)
+
+Title: "Managing architectural contributions in software projects: Metrics, empirical analysis and machine learning" (in French), prepared at EuroMov Digital Health In Motion, IMT Mines Alès, under the supervision of Christelle Urtado and Sylvain Vauttier. The thesis studies how contributors' work on a software project's architecture can be measured and managed, using software metrics, empirical analysis of projects and machine learning. Jury: Xavier Blanc (Univ. Bordeaux) and Anne Etien (Univ. Lille) as reviewers, Antoine Beugnard (IMT Atlantique) as president, Chouki Tibermacine (Univ. Montpellier) as examiner, and the two supervisors. Manuscript, defense slides and defense video (all in French) are linked from the home page.
+
+## Main pages
+
+- [Home page](https://qperez.github.io/): biography, education, publications (HAL feed), teaching, supervised students, academic services, work experience and projects
+- [Past teaching list](https://qperez.github.io/past_teaching_list): detailed list of courses taught at IMT Mines Alès (2018-2022) and Univ. Montpellier (2021-2023), mostly in French
+
+## Teaching
+
+- [Green Computing course (INSA Rennes, 4th year Computer Science)](https://qperez.github.io/#green-computing-course-seedling): 26h module on software and hardware energy measurement, ICT environmental impact, electricity mix and energy-efficient software design; lecture slides (French/English) and practical works (PC assembly, software power-meter, Firefox profiler, Scaphandre)
+
+## Publications and profiles
+
+- [HAL](https://cv.archives-ouvertes.fr/quentin-perez): full publication list
+- [Google Scholar](https://scholar.google.com/citations?user=xZYkVhsAAAAJ&hl)
+- [ORCID](https://orcid.org/0000-0002-1534-4821)
+- [PhD manuscript (French)](https://theses.hal.science/tel-03517320v1/file/101647_PEREZ_2021_archivage.pdf): "Managing architectural contributions in software projects: Metrics, empirical analysis and machine learning"
+
+## Affiliations and links
+
+- [Khora Team](https://khora-team.github.io/): research team at IRISA/Inria, Rennes
+- [INSA Rennes](https://www.insa-rennes.fr/index.html)
+- [IRISA](https://www.irisa.fr/)
+- [GitHub](https://github.com/qperez)
+- [LinkedIn](https://www.linkedin.com/in/quentin-perez-93b832a4)
+
+## Optional
+
+- [Source repository of this website](https://github.com/qperez/qperez.github.io)

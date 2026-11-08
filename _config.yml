@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 title: Quentin Perez
 description: Associate Professor of Software Engineering @ INSA Rennes - Research in the Khora Team
+url: https://qperez.github.io
+baseurl: ""
 download: False
 plugins:
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
